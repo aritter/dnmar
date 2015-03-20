@@ -1,0 +1,1450 @@
+0.0	0.0	facility	false	in=JV in=soccer r=leads r=4-1 r=after
+0.0	0.0	facility	false	in=JV in=soccer r=leads r=4-1 r=after
+0.3333333333333333	0.00980392156862745	facility	true	in=HSBC in=center l=! l=off l=to r=to r=soundcheck r=for
+0.5	0.0196078431372549	facility	true	in=Glenveagh in=national in=park l=a l=stop l=in r=, r=should r=be
+0.4	0.0196078431372549	facility	false	in=Lincoln in=park in=after in=dark l=Branching l=out l=from r=... r=Hello r="
+0.5	0.029411764705882353	facility	true	in=Southgate in=House l=12th l=at l=the r=! r=I've r=been
+0.5714285714285714	0.0392156862745098	facility	true	in=CANWEST in=Center l=auditions l=Sept l=25 r=for r=Theater r=and
+0.625	0.049019607843137254	facility	true	in=Town in=Square in=Place l=Hudson l=TMA l=at r=on r=Pavonia r=Avenue
+0.5555555555555556	0.049019607843137254	facility	false	in=High in=House in=Farm l=local l=apples l=from r= r=mighty r=fine
+0.6	0.058823529411764705	facility	true	in=Leacock in=Museum l=, l=ON l=at r=on r=October r=24
+0.5454545454545454	0.058823529411764705	facility	false	in=Sydney l=9 l=days l=then
+0.5833333333333334	0.06862745098039216	facility	true	in=Hyde in=Park in=Corner l=- l=London l=- r=- r=1.30 r=pm
+0.5384615384615384	0.06862745098039216	facility	false	in=Civil in=House l=minister l=of l=the r=in r=April r=this
+0.5	0.06862745098039216	facility	false	in=Vista in=del in=Lago l=pissed l=off l=the r=Eagles r=, r=well
+0.4666666666666667	0.06862745098039216	facility	false	in=Ball in=Metal in=Container l=NJ l=tomorrow l=(@ r=)
+0.4375	0.06862745098039216	facility	false	in=Empire in=State in=Building l=two l=weeks l=. r= r=ESB r=.
+0.47058823529411764	0.0784313725490196	facility	true	in=Empire in=State in=Building l=two l=weeks l=. r= r=ESB r=.
+0.5	0.08823529411764706	facility	true	in=Wildcat in=Stadium l=Elgin l=tonite l=@ r=@ r=7:30 r=.
+0.47368421052631576	0.08823529411764706	facility	false	in=Castle r=goes r=down r=,
+0.45	0.08823529411764706	facility	false	in=kings in=of in=leon l=@DaymiCarolina l=: l=Yayaayayay r=tonight r=!!!
+0.47619047619047616	0.09803921568627451	facility	true	in=Hotel in=Elegante l=18th l=2010 l=8pm r=Steve r=&quot; r=Stylez
+0.45454545454545453	0.09803921568627451	facility	false	in=Centennial in=College l=Student l=Centre l=at r=( r=Progress r=Campus
+0.4782608695652174	0.10784313725490197	facility	true	in=frat in=house in=Hattiesburg l=truly l=tonight l=at r=on r=the r=1s
+0.5	0.11764705882352941	facility	true	in=frat in=house in=Hattiesburg l=truly l=tonight l=at r=on r=the r=1s
+0.52	0.12745098039215685	facility	true	in=Fort in=Mason l=OFF l=the l=GRID r=at r=5PM r=TODAY
+0.5384615384615384	0.13725490196078433	facility	true	in=Potbelly in=Lincoln in=Park l=Savoirfaire l=Williams l=at r=in r=Chicago r=,
+0.5555555555555556	0.14705882352941177	facility	true	in=Mississippi in=Studios l=PM l=today l=at r=http://artistdata.com/a/1kdx
+0.5714285714285714	0.1568627450980392	facility	true	in=Cathedral in=of in=Learning in=G24 l=It l='s l=at r=at r=7pm r=!
+0.5862068965517241	0.16666666666666666	facility	true	in=Student in=Centre l=a.m. l=in l=the r=at r=Centennial r=College
+0.6	0.17647058823529413	facility	true	in=Band in=hall r=. r=Game r=time
+0.5806451612903226	0.17647058823529413	facility	false	in=national in=flat in=picking in=championship l=who l=won l=the r=flipping r=amazing r=r/l
+0.59375	0.18627450980392157	facility	true	in=White in=Eagle l=yeah l=!! l=(@ r=) r=http://4sq.com/b5Wloc
+0.5757575757575758	0.18627450980392157	facility	false	in=Grand in=Masquerade l=before l=heading l=to r=next r=week r=.
+0.5882352941176471	0.19607843137254902	facility	true	in=Glover in=Park l=We'll l=be l=@ r=farmers r=market r=,
+0.6	0.20588235294117646	facility	true	in=Trophy in=Club in=Gwinnett l=Golf l=Mixer l=at r=3254 r=Clu r=...
+0.6111111111111112	0.21568627450980393	facility	true	in=Hustler in=Hollywood l=Heat l=signing l=at r=Sep r=23rd r=8-10pm
+0.5945945945945946	0.21568627450980393	facility	false	in=Long in=Island in=Mac in=Arthur in=Airport l=at l=Islip l=, r=, r=NY r=Winds
+0.5789473684210527	0.21568627450980393	facility	false	in=Xbox in=360 l=for l=PS3 l=, r=: r=by r=Widro
+0.5641025641025641	0.21568627450980393	facility	false	in=Fulham l=won't l=be l=at r=for r=long r=http://bit.ly/aCXCNE
+0.575	0.22549019607843138	facility	true	in=Music in=Box l=Sept l=21st l=@ r=: r=contest@ r=dimmak.com
+0.5609756097560976	0.22549019607843138	facility	false	in=Robinhoods in=bay l=Off l=camping l=to r=In r=Jasmin r=.
+0.5714285714285714	0.23529411764705882	facility	true	in=The in=Pub l=Friday l=night l=at r=! r=DUDE r=Jones
+0.5813953488372093	0.24509803921568626	facility	true	in=First in=Baptist l=great l=Caliman l=at r=on r=Harvard r=http://bit.ly/bsnOkT
+0.5909090909090909	0.2549019607843137	facility	true	in=Swayzes in=Venue l=are l=playing l=at r=. r=Please r=come
+0.5777777777777777	0.2549019607843137	facility	false	in=Buffalo in=Municipal in=Airport l=64 l=F l=at r=, r=MN r=Winds
+0.5869565217391305	0.2647058823529412	facility	true	in=Dim in=Mak l=| l=Afterparty l=at r=Tuesdays r=@CinespaceLA
+0.574468085106383	0.2647058823529412	facility	false	in=Berkeley l=the l=show l=at r=in r=Oct r=6th
+0.5625	0.2647058823529412	facility	false	in=London in=Fashion in=Week l=Here l='s l=the r=schedule r=: r=http://nyti.ms/bW0N3u
+0.5510204081632653	0.2647058823529412	facility	false	in=Homecoming in=Week l=at l=school l=... r=... r=And r=Picture
+0.54	0.2647058823529412	facility	false	in=Float-Ellicott in=City l=Executive l=Pharmacist-Full l=Time r=, r=MD r=Job
+0.5294117647058824	0.2647058823529412	facility	false	in=Club in=Penguin l=are l=this l=weeks r=FUN r=Art r=Drawings
+0.5192307692307693	0.2647058823529412	facility	false	in=GLASGOW l=ARE l=COMMING l=TO r=!!!!!!!!!!!!!!!!!!!
+0.5094339622641509	0.2647058823529412	facility	false	in=Reuters l=Sept l=17 l=( r=) r=- r=U
+0.5185185185185185	0.27450980392156865	facility	true	in=CALABASH in=LOUNGE l=SEDUCTION l=SATURDAYS l=@ r=SEP r=25TH r=#DABOSS
+0.509090909090909	0.27450980392156865	facility	false	in=Paris in=Hilton l=Stalker l=!: l=First r=, r=now r=Miley
+0.5178571428571429	0.28431372549019607	facility	true	in=Dillion in=High in=School l=no l=one l=at r=graduates r=.
+0.5263157894736842	0.29411764705882354	facility	true	in=Limelight l=artists l=showcased l=at r=on r=St r=.
+0.5172413793103449	0.29411764705882354	facility	false	in=UP in=Diliman l=Join l=us l=at r=for r=a r=day
+0.5254237288135594	0.30392156862745096	facility	true	in=Bowl in=Long in=Island l=I'm l=at r=( r=138 r=West
+0.5166666666666667	0.30392156862745096	facility	false	in=Burnaby l=9:00 l=pm l=at r=8Rinks r=. r=Please
+0.5081967213114754	0.30392156862745096	facility	false	in=Central in=Park l=you l=went l=to r=after r=dark r=you'd
+0.5	0.30392156862745096	facility	false	in=Army in=Run l=you l=at l=the r=on r=Sunday r=?
+0.49206349206349204	0.30392156862745096	facility	false	in=rocky in=horror in=show l='s l=in l=the r=next r=week r=which
+0.5	0.3137254901960784	facility	true	in=Primal l=- l=Tonight l=at r=Its r=@Roscoedash r=,
+0.49230769230769234	0.3137254901960784	facility	false	in=london l=my l=girls l=in r=or r=travelling r=up
+0.5	0.3235294117647059	facility	true	in=The in=Lodge l=tonight l=at r=: r=braised r=bison
+0.4925373134328358	0.3235294117647059	facility	false	in=Super in=City l=Can't l=believe l=the r=is r=nearly r=open
+0.5	0.3333333333333333	facility	true	in=Disney in=World l=planning l=the l=next r=trip r=.
+0.4927536231884058	0.3333333333333333	facility	false	in=London l=two l=nighter l=in r=NOVEMBER r=18 r=...
+0.5	0.3431372549019608	facility	true	in=North in=Phoenix in=ATA l=Day l=tomorrow l=at r=. r=Kids r=Self-Defense
+0.49295774647887325	0.3431372549019608	facility	false	in=Blonde in=Redhead l=the l=Day l=: r=: r=A r=Different
+0.4861111111111111	0.3431372549019608	facility	false	in=garden in=grove l=after l=off l=to
+0.4931506849315068	0.35294117647058826	facility	true	in=CLUB in=BLU r=tonite r=...... r=90
+0.4864864864864865	0.35294117647058826	facility	false	in=The in=Buffs l=@ l=7:30 l=. r=will r=try r=to
+0.48	0.35294117647058826	facility	false	in=Flip in=MinoHD l=#VideoRecorder l=#7 l=: r=Video r=Camera r=--
+0.47368421052631576	0.35294117647058826	facility	false	in=London l=Tomorrow l=- r=- r=Hyde r=Park
+0.4675324675324675	0.35294117647058826	facility	false	in=Chicago l=at l=103.5 l=in r=today r=http://tumblr.com/xvliuc7q5
+0.47435897435897434	0.3627450980392157	facility	true	in=VISIONS in=LOUNGE l=IS l=NOW l=AT r=IN r=HICKORY r=,
+0.4810126582278481	0.37254901960784315	facility	true	in=The in=Standard l=DJ l=set l=at r=in r=LA r=tonight
+0.4875	0.38235294117647056	facility	true	in=The in=Heartbeat l=&amp; l=@fordinho l=at r=tonight r=, r=or
+0.48148148148148145	0.38235294117647056	facility	false	in=Lindsay l=We l=just l=congratulated r=an r=hour r=ago
+0.4878048780487805	0.39215686274509803	facility	true	in=muse l=Ill l=be l=at r=717 r=6th r=St
+0.4819277108433735	0.39215686274509803	facility	false	in=East in=Nu l=Hey l=y'all l=" r=," r=round r=Two
+0.47619047619047616	0.39215686274509803	facility	false	in=Terry in=Fox l=at l=the l=PoMo r=run r=. r=Should
+0.47058823529411764	0.39215686274509803	facility	false	in=KSC l=good l=stuff l=at r=.
+0.46511627906976744	0.39215686274509803	facility	false	in=JFK l=50 l=years l=after r=campaign r=[ r=AP
+0.45977011494252873	0.39215686274509803	facility	false	in=Brando l=no l=longer l=at r=? r=How r=come
+0.45454545454545453	0.39215686274509803	facility	false	in=Google in=Music r=Rumors r=: r=Labels
+0.449438202247191	0.39215686274509803	facility	false	in=Flip in=MinoHD l=Record l=Time l=: r=Video r=Camera r=--
+0.4444444444444444	0.39215686274509803	facility	false	in=The in=Scoot in=Inn l=Austin l=Tonite l=at r=at r=1am r=!
+0.43956043956043955	0.39215686274509803	facility	false	in=JFK l=50 l=years l=after r=campaign r=: r=Had
+0.43478260869565216	0.39215686274509803	facility	false	in=JFK l=50 l=years l=after r=campaign r=: r=Had
+0.43010752688172044	0.39215686274509803	facility	false	in=The in=Drama in=Edition l=This l=Week l=: r=- r=Had r=any
+0.425531914893617	0.39215686274509803	facility	false	in=Ohio l=FOOTBALL l=FEVER l=: r=head r=coach r=Frank
+0.42105263157894735	0.39215686274509803	facility	false	in=Morton in='s in=Salt l=Today l= r=motto r=+ r=Murphy
+0.4166666666666667	0.39215686274509803	facility	false	in=Christmas l=battle l=to l=save r=.
+0.41237113402061853	0.39215686274509803	facility	false	in=Small in=Biz in=Tech in=Tour in=2010 r=Launches r=Five r=City
+0.40816326530612246	0.39215686274509803	facility	false	in=SS in=2011 in=Fashion in=Week l=Fave l=Looks l=from r=: r=Jason r=Wu
+0.40404040404040403	0.39215686274509803	facility	false	in=Swagger/Kofi in=Match l=TV l=after l=the r=Lol
+0.41	0.4019607843137255	facility	true	in=PITT in=University l=Group l=is l=at r=! r=It r='s
+0.40594059405940597	0.4019607843137255	facility	false	in=Glee l=until l=after l=the r=premiere r=&amp; r=Charice
+0.4019607843137255	0.4019607843137255	facility	false	in=League in=Pass l=NBA l=now l=? r=withdrawal r=symptoms r=......
+0.39805825242718446	0.4019607843137255	facility	false	in=Twins l=this l=weekend l=? r=? r=Vikings r=?
+0.3942307692307692	0.4019607843137255	facility	false	in=HoveLive in=Festival l=to l=be l=at r=tomorrow r=in r=Belgium
+0.3904761904761905	0.4019607843137255	facility	false	in=TailGreat l=Wireless l=tent l=at r=tomorrow r=evening r=for
+0.3867924528301887	0.4019607843137255	facility	false	in=kilkenny l=http://www.youtube.com/watch?v l=we l=beat r=after r=they r=beat
+0.38317757009345793	0.4019607843137255	facility	false	in=kilkenny l=http://www.youtube.com/watch?v l=we l=beat r=after r=they r=beat
+0.37962962962962965	0.4019607843137255	facility	false	in=Catherine in=Olson l=( l=Kindle l=Edition)By r=Buy r=new r=:
+0.3761467889908257	0.4019607843137255	facility	false	in=Reuters l=Sept l=17 l=( r=) r=- r=Umar
+0.38181818181818183	0.4117647058823529	facility	true	in=The in=Heatwave l=this l=week l=is r=7th r=birthday r=...
+0.3783783783783784	0.4117647058823529	facility	false	in=Club in=Penguin l=FAN l=Art l=in r=:) r=: r=Here
+0.375	0.4117647058823529	facility	false	in=kings in=of in=leon l=i l=had l=a r=marathon r=. r=i
+0.37168141592920356	0.4117647058823529	facility	false	in=Deep in=Sea in=Intervention l=EXA-OIL l=. l=COM r=opens r=Singapore r=facility
+0.3684210526315789	0.4117647058823529	facility	false	in=DoE l=around l=. l=The r=may r=well r=have
+0.3652173913043478	0.4117647058823529	facility	false	in=Orange in=&amp; in=Blue in=Skate l=RT l=@IlliniCampusRec l=: r=tonight r=, r=7:30
+0.3706896551724138	0.4215686274509804	facility	true	in=Loveless in=Cafe l=to l=eat l=at r=tonight r=! r=:)
+0.36752136752136755	0.4215686274509804	facility	false	in=Electric in=Lady in=Studios l=at l=NYC l='s r=, r=past r=and
+0.3644067796610169	0.4215686274509804	facility	false	in=KY l=in l=stores l=. r=ships r=next r=week
+0.36134453781512604	0.4215686274509804	facility	false	in=KY l=in l=stores l=. r=ships r=next r=week
+0.35833333333333334	0.4215686274509804	facility	false	in=A in=Different in=Kind in=Of in=Ache l=Blonde l=Redhead l=: r=http://n.pr/9O8yXE
+0.35537190082644626	0.4215686274509804	facility	false	in=Viera l=Done l=teaching l=in r=time r=for r=some
+0.3524590163934426	0.4215686274509804	facility	false	in=Battle in=of in=Britain l=Sunday l=to l=mark r=http://dlvr.it/5RhwW
+0.34959349593495936	0.4215686274509804	facility	false	in=Philadelphia l=: l=Alexei l=:: r=Eagles r=: r=Donovan
+0.3548387096774194	0.43137254901960786	facility	true	in=the in=funny in=bone l='s l=go l=to r=to r=see r=@deraydavis
+0.36	0.4411764705882353	facility	true	in=Mai in=Tai l=m l=DJing l=at r=in r=Long r=Beach
+0.35714285714285715	0.4411764705882353	facility	false	in=San in=Francisco l=tonight l=only l=, r=6pm r=contact r=Jennifer
+0.3543307086614173	0.4411764705882353	facility	false	in=Gym in=Class in=Heroes l=Own l=Time l=-
+0.3515625	0.4411764705882353	facility	false	in=Remington in='s in=Annual in=Octoberfest l=9th l=2010 l=... r=!!
+0.35658914728682173	0.45098039215686275	facility	true	in=Forgotten in=Door l=Fest l=2010 l=~ r=LIVE r=! r=http://fb.me/G1pof3lO
+0.35384615384615387	0.45098039215686275	facility	false	in=tumblr l=-via l=someone l='s
+0.3511450381679389	0.45098039215686275	facility	false	in=Ohio l=after l=performance l=in r=: r=George r=N
+0.3484848484848485	0.45098039215686275	facility	false	in=Widener l=Game l=@ r=tonight r=at r=7:30
+0.3458646616541353	0.45098039215686275	facility	false	in=NEW in=YORK l=makers l=post-'flash l=crash': r=, r=Sept r=17
+0.34328358208955223	0.45098039215686275	facility	false	in=CocoFunka l=Costa l=Rican l=group r=power r=this r=week
+0.34074074074074073	0.45098039215686275	facility	false	in=CocoFunka l=Costa l=Rican l=group r=power r=this r=week
+0.34558823529411764	0.46078431372549017	facility	true	in=Burning in=Bush in=Grille l=will l=be l=at r=, r=13206 r=W
+0.34306569343065696	0.46078431372549017	facility	false	in=Lions l=Sunday l=. l=Go r=!!
+0.34057971014492755	0.46078431372549017	facility	false	in=Grammar in=Boot in=Camp r=starts r=on r=Monday
+0.34532374100719426	0.47058823529411764	facility	true	in=The in=Echo l=@jdsamson l=/MEN l=at r=.
+0.34285714285714286	0.47058823529411764	facility	false	in=Lindsay in=Lohan l=#lindsaylohan l=US l=- r=: r=Failed r=Drug
+0.3404255319148936	0.47058823529411764	facility	false	in=LADY in=GAGA r=IS r=BETTER r=THE
+0.3380281690140845	0.47058823529411764	facility	false	in=Japan l=experiencing l=loos l=in r=, r=I'm r=spoiled
+0.3356643356643357	0.47058823529411764	facility	false	in=Tournament in=of in=Champions l=head l=to l=the r=!!!!!!! r=Super r=excited
+0.3333333333333333	0.47058823529411764	facility	false	in=A&amp;E l=Mikes l=been l=at r=all r=day r=and
+0.33793103448275863	0.4803921568627451	facility	true	in=Dick in='s in=Carpet l=Networking l=Mixer l=at r=next r=T r=...
+0.3356164383561644	0.4803921568627451	facility	false	in=Halo l=retrospective l=on l=the r=franchise r=along r=with
+0.3401360544217687	0.49019607843137253	facility	true	in=barksdale l=, l=play l=at r=in r=a r=bit
+0.34459459459459457	0.5	facility	true	in=Spoons in=NW in=Bistro l=Choice l=Menu l=at r=for r=tonight r=...:
+0.3422818791946309	0.5	facility	false	in=NEW in=ORLEANS r=! r=- r=Tonight
+0.34	0.5	facility	false	in=Atlas in=Shrugs l=After l=All l=via r=http://tinyurl.com/39wg73o
+0.33774834437086093	0.5	facility	false	in=LONDON l=beat l=England l=: r=, r=Sept r=17
+0.3355263157894737	0.5	facility	false	in=LA l=The l=Standard l=in r=tonight r=! r=http://fb.me/I91IUaEq
+0.3333333333333333	0.5	facility	false	in=Paris l=come l=back l=in r=next r=week r=.
+0.33116883116883117	0.5	facility	false	in=PEI l=Oh r=, r=i r=always
+0.32903225806451614	0.5	facility	false	in=Winter in='s in=Bone l=to l=@glasgowfilm l=for r=- r=need r=to
+0.3269230769230769	0.5	facility	false	in=Winter in='s in=Bone l=to l=@glasgowfilm l=for r=- r=need r=to
+0.3248407643312102	0.5	facility	false	in=St in=. in=Mary's. l=at l=Limelight l=on
+0.3227848101265823	0.5	facility	false	in=Belgium l=So l=here l=in r=its r=now r=7minutes
+0.3270440251572327	0.5098039215686274	facility	true	in=Gardens l=time l=I'm l=at r=we r=are r=joining
+0.325	0.5098039215686274	facility	false	in=Xbox in=360 r=: r=Enslaved r=:
+0.32298136645962733	0.5098039215686274	facility	false	in=Soho l=Bond l=Street l=in r=. r=If r=your
+0.32098765432098764	0.5098039215686274	facility	false	in=Houston l=of l=meetings l=with r=, r=Fes r=is
+0.31901840490797545	0.5098039215686274	facility	false	in=Murphy in='s in=Law l=Salt l=motto l=+
+0.3170731707317073	0.5098039215686274	facility	false	in=Avast in=AntiVirus in=4 in=8 in=PROFIONAL r=Full r=Life r=Time
+0.3151515151515151	0.5098039215686274	facility	false	in=Alpha in=&amp; in=Omega l=for l=the l=kids- r=( r=PG r=)
+0.3132530120481928	0.5098039215686274	facility	false	in=Pizza in=Hut l=May l=to l=order r=. r=Definitely r=not
+0.31137724550898205	0.5098039215686274	facility	false	in=Rep in=. in=Bono in=Mack r=to r=criticize r=fellow
+0.30952380952380953	0.5098039215686274	facility	false	in=corbin l=center l=) l=in r=.
+0.3076923076923077	0.5098039215686274	facility	false	in=Indiesent in=Exposure l=this l=week l='s r=http://ht.ly/2G4nS r=by r=@fuseboxradio
+0.3058823529411765	0.5098039215686274	facility	false	in=Indiesent in=Exposure l=this l=week l='s r=http://ht.ly/2G4nS r=by r=@fuseboxradio
+0.30409356725146197	0.5098039215686274	facility	false	in=St in=. in=Luke in='s r=emergency r=department r=wait
+0.3023255813953488	0.5098039215686274	facility	false	in=Vordingborg l=Tonight l=Stars l=in r=- r=few r=tic
+0.3063583815028902	0.5196078431372549	facility	true	in=Elements l=Betta l=be l=at r=tonight r=BOGO r=drinks
+0.3045977011494253	0.5196078431372549	facility	false	in=Slovenia l=10 l=October l=2010 r=: r=Playboy r=-
+0.3028571428571429	0.5196078431372549	facility	false	in=Slovenia l=10 l=October l=2010 r=: r=Playboy r=-
+0.30113636363636365	0.5196078431372549	facility	false	in=Auburn l=at l=http://bit.ly/cds8Pd l=; r=party r=at r=http://bit.ly/9X1KP8
+0.2994350282485876	0.5196078431372549	facility	false	in=Auburn l=at l=http://bit.ly/cds8Pd l=; r=party r=at r=http://bit
+0.29775280898876405	0.5196078431372549	facility	false	in=Donovan in=McNabb l=Philadelphia l=Eagles l=: r=( r=even r=b4
+0.3016759776536313	0.5294117647058824	facility	true	in=VISIONS in=LOUNGE l=IT l=UP l=AT r=!!!!! r=18+ r=NO
+0.3	0.5294117647058824	facility	false	in=Romeo in=&amp; in=Julliet l=Free r=under r=the r=stars
+0.2983425414364641	0.5294117647058824	facility	false	in=England l=as l=Pakistan l=beat r=: r=LONDON r=,
+0.2967032967032967	0.5294117647058824	facility	false	in=Gwen in=Stefani l=Celebrates l=LAMB l=With r=: r=New r=York
+0.29508196721311475	0.5294117647058824	facility	false	in=Santa l=Little l=Girl l=: r=Is r=So r=Awesome
+0.29347826086956524	0.5294117647058824	facility	false	in=Paranormal in=Activity in=2 l=we l=go l=again r=http://j.mp/ascgZr r=I r='m
+0.2918918918918919	0.5294117647058824	facility	false	in=San in=Mateo l=btwn l=SF l=and
+0.2903225806451613	0.5294117647058824	facility	false	in=DC l=Just l=landed l=in r=. r=Is r=anybody
+0.2887700534759358	0.5294117647058824	facility	false	in=Playboy l=2010 l=Slovenia l=: r=- r=10 r=October
+0.2872340425531915	0.5294117647058824	facility	false	in=Playboy l=2010 l=Slovenia l=: r=- r=10 r=October
+0.2857142857142857	0.5294117647058824	facility	false	in=HTC in=Desire in=Z l=Amazon l=U.K. l=Offering r=Unlocked r=October r=11
+0.28421052631578947	0.5294117647058824	facility	false	in=HTC in=Desire in=Z l=Amazon l=U.K. l=Offering r=Unlocked r=October r=11
+0.28272251308900526	0.5294117647058824	facility	false	in=North in=York l=Accounts l=Payable l=Coordinator r=- r=$37K r=(
+0.28125	0.5294117647058824	facility	false	in=MTV l=what l=criteria l=does r=use r=to r=give
+0.27979274611398963	0.5294117647058824	facility	false	in=Fashion in=week r=ends r=with r=Ralph
+0.27835051546391754	0.5294117647058824	facility	false	in=Pepsi l=guy l=driving l=a r=truck r=, r=drinking
+0.27692307692307694	0.5294117647058824	facility	false	in=Pepsi l=guy l=driving l=a r=truck r=, r=drinking
+0.2755102040816326	0.5294117647058824	facility	false	in=The in=Town r=might r=be r=one
+0.27411167512690354	0.5294117647058824	facility	false	in=The in=Town r=might r=be r=one
+0.2727272727272727	0.5294117647058824	facility	false	in=Vuelter in=blog l=Today l='s r=: r=http://bit.ly/choe8Y
+0.271356783919598	0.5294117647058824	facility	false	in=Canada l=Sports l=Day l=in r=#yyc r=#sportsday r=http://ow.ly/2G4sf
+0.27	0.5294117647058824	facility	false	in=Hughie in=O'Donoghue l=A r=painting r=, r=some
+0.26865671641791045	0.5294117647058824	facility	false	in=Jemma l=after l=christmas l=. r=; r=they r=already
+0.26732673267326734	0.5294117647058824	facility	false	in=Information in=Underground r=: r=This r=Week
+0.2660098522167488	0.5294117647058824	facility	false	in=Playboy r=- r=10 r=October
+0.2647058823529412	0.5294117647058824	facility	false	in=Playboy r=- r=10 r=October
+0.2634146341463415	0.5294117647058824	facility	false	in=Chicago l=Fight l=Club l=in r=. r=Pringles r=,
+0.2621359223300971	0.5294117647058824	facility	false	in=Pope in=Benedict r=trip r=: r=Why
+0.2608695652173913	0.5294117647058824	facility	false	in=Orillia l=show l=announced l=in r=, r=ON r=at
+0.25961538461538464	0.5294117647058824	facility	false	in=VEVO l=Playlist l=Featured l=on r=Live r=Week r=[
+0.2583732057416268	0.5294117647058824	facility	false	in=UT l=are l=dressed l=in r=gear r=tomorrow r=,
+0.2571428571428571	0.5294117647058824	facility	false	in=Shane l=they l=hate l=on r=instead r=:( r=:'
+0.26066350710900477	0.5392156862745098	facility	true	in=BAR l=: l=Working l=at r=tonight r=. r=1309
+0.25943396226415094	0.5392156862745098	facility	false	in=The in=31st in=annual in=Plano in=Balloon in=Festival l=START l=TODAY l=: r=, r=Plano r=Balloon
+0.26291079812206575	0.5490196078431373	facility	true	in=@Cromwell in=Field l=a l=practice l=session r=today r=at r=6pm
+0.2616822429906542	0.5490196078431373	facility	false	in=Chicago l=Beautiful l=day l=in r=! r=Nice r=to
+0.26046511627906976	0.5490196078431373	facility	false	in=Chicago l=Beautiful l=day l=in r=! r=Nice r=to
+0.2638888888888889	0.5588235294117647	facility	true	in=Republic l=Tonight l=@damionyancy l=at r=!
+0.2626728110599078	0.5588235294117647	facility	false	in=HICKORY l=VISIONS l=LOUNGE l=IN r=, r=NC r=ON
+0.26605504587155965	0.5686274509803921	facility	true	in=Elliot in=Miner l=good l=luck l=at r=:D r=yous r=were
+0.2648401826484018	0.5686274509803921	facility	false	in=Kindle l=After l=Eventide l=( r=Edition)By r=Catherine r=Olson
+0.2636363636363636	0.5686274509803921	facility	false	in=Y in=La in=Bamba r=: r=Playing r=a
+0.26244343891402716	0.5686274509803921	facility	false	in=Eagles l=Come l=support l=your r=! r=Praying r=for
+0.26126126126126126	0.5686274509803921	facility	false	in=Air in=Music in=Jump l=FREE l=: r=. r=if r=you
+0.2600896860986547	0.5686274509803921	facility	false	in=Sky in=3D l=CyberNation r=enlists r=Stephen r=Fry
+0.25892857142857145	0.5686274509803921	facility	false	in=maryland l=at l=tomorrow l=in r=??
+0.2577777777777778	0.5686274509803921	facility	false	in=NC in=St l=, l=Charlotte l=and r=. r=have r=all
+0.25663716814159293	0.5686274509803921	facility	false	in=Sacramento l=Just l=arrived l=in r=! r=What r=a
+0.2555066079295154	0.5686274509803921	facility	false	in=EuroVPS r=celebrates r=its r=6
+0.2543859649122807	0.5686274509803921	facility	false	in=strokes in=of in=genius l=pinot l=, l=&quot; r=&quot; r=by r=john
+0.25327510917030566	0.5686274509803921	facility	false	in=Avast in=AntiVirus in=4.8 in=PROFESIONAL l=Time l=Key l=: r=Full r=with r=Life
+0.25217391304347825	0.5686274509803921	facility	false	in=Mitchell l=those l=org l='s r=ad r=as r=@ASFried
+0.2510822510822511	0.5686274509803921	facility	false	in=Florida l=away l=from l=the r=heat r=.
+0.25	0.5686274509803921	facility	false	in=Florida l=away l=from l=the r=heat r=.
+0.24892703862660945	0.5686274509803921	facility	false	in=camp in=rock in=2 l=watching r=again r=... r=all
+0.24786324786324787	0.5686274509803921	facility	false	in=Facebook l=#sp r=Job-Hunting r=App r=BranchOut
+0.24680851063829787	0.5686274509803921	facility	false	in=Facebook r=Job-Hunting r=App r=BranchOut
+0.2457627118644068	0.5686274509803921	facility	false	in=Pope l=be l=the l=next r=" r=Brown r=:
+0.24472573839662448	0.5686274509803921	facility	false	in=Super in=Angels l=From l=Accel l=And r=: r=When r=you
+0.24369747899159663	0.5686274509803921	facility	false	in=U in=of in=W l=Theater l=and l=Film r=ROOM r=0T15 r=11:30
+0.24267782426778242	0.5686274509803921	facility	false	in=LA l=Joe l=Torre l=as r=Dodgers r=manager r=after
+0.24166666666666667	0.5686274509803921	facility	false	in=World in=War in=3 l=going l=to l=be r=!!!!!!
+0.24066390041493776	0.5686274509803921	facility	false	in=Happy in=Valley l=the l=weekend l=in r=!
+0.2396694214876033	0.5686274509803921	facility	false	in=BORDER in=LINEA r=IS r=TONIGHT r=!
+0.23868312757201646	0.5686274509803921	facility	false	in=PLANO in=BALLOON in=FESTIVAL in=2010 r=TO r=START r=TODAY
+0.23770491803278687	0.5686274509803921	facility	false	in=RockHouse l=GuitarNews l=: r=: r=The r=Weekend
+0.23673469387755103	0.5686274509803921	facility	false	in=Pxleyes r=Top r=50 r=Photography
+0.23577235772357724	0.5686274509803921	facility	false	in=Until in=the in=End in=of in=Time l=. l=Beyonce l=- r=http://t.co/kUe6djJ r=via r=@youtube
+0.23481781376518218	0.5686274509803921	facility	false	in=Belgium l=Festival l=tomorrow l=in r=! r=http://fb.me/v5CUZkEY
+0.23387096774193547	0.5686274509803921	facility	false	in=DJ in=Got in=Us in=Fallin in=in in=Love l=Have r=in r=my r=head
+0.23293172690763053	0.5686274509803921	facility	false	in=Twitter l=Jackie l=joins r=50 r=years r=after
+0.232	0.5686274509803921	facility	false	in=DC l=, l=9-1 l=in r=. r=Come r=by
+0.2350597609561753	0.5784313725490197	facility	true	in=Motoland in=of in=Aragon l=Round l=13 l=, r=, r=Spain r=,
+0.23412698412698413	0.5784313725490197	facility	false	in=kings in=and in=queens l=on l=stage l=during/before r=:( r=((
+0.233201581027668	0.5784313725490197	facility	false	in=kings in=and in=queens l=on l=stage l=during/before r=:( r=((
+0.23228346456692914	0.5784313725490197	facility	false	in=HOLLYWOOD l=AINT l=LIKE l=THESE r=AZZ r=RAPPERS r=WE
+0.23137254901960785	0.5784313725490197	facility	false	in=HOLLYWOOD l=AINT l=LIKE l=THESE r=AZZ r=RAPPERS r=WE
+0.23046875	0.5784313725490197	facility	false	in=Harvard l=First l=Baptist l=on r=http://bit.ly/bsnOkT r=Musical r=celebration
+0.22957198443579765	0.5784313725490197	facility	false	in=S8 in=blog l=this l=week l='s r=: r=http://ow.ly/2G43u
+0.22868217054263565	0.5784313725490197	facility	false	in=NYC l=next l=Friday l=in r=...
+0.2277992277992278	0.5784313725490197	facility	false	in=Sky in=3D l=Engadget l=: r=enlists r=Stephen r=Fry
+0.22692307692307692	0.5784313725490197	facility	false	in=DC l=ill l=be l=in r=tonight r=where r=u
+0.2260536398467433	0.5784313725490197	facility	false	in=Texas l=Davis l=in l=: r=wide r=receiver r=John
+0.22519083969465647	0.5784313725490197	facility	false	in=iPhones l=showing l=off l=their r=on r=facebook r=today
+0.22433460076045628	0.5784313725490197	facility	false	in=RR l=the l=one l=in r=on r=Friday r=.
+0.22727272727272727	0.5882352941176471	facility	true	in=Sunset in=Bistro l=at l=the l=ol r=tonight r=... r=come
+0.22641509433962265	0.5882352941176471	facility	false	in=N.J. l=City l=Tour l=MONTCLAIR r=...: r=The r=all
+0.22556390977443608	0.5882352941176471	facility	false	in=N.J. l=City l=Tour l=MONTCLAIR r=...: r=The r=all
+0.2247191011235955	0.5882352941176471	facility	false	in=Coolum l=to l=live l=around r=. r=Sun r=,
+0.22388059701492538	0.5882352941176471	facility	false	in=New in=York in=Fashion in=Week l=Gwen l=Stefani l=: r=is r=coming r=to
+0.22304832713754646	0.5882352941176471	facility	false	in=New in=York in=Fashion in=Week l=Up l=Another l=Successful r=: r=New r=York
+0.2222222222222222	0.5882352941176471	facility	false	in=MONTCLAIR l=Five l=City l=Tour r=N.J. r=...: r=The
+0.22140221402214022	0.5882352941176471	facility	false	in=MONTCLAIR l=Five l=City l=Tour r=N.J. r=...: r=The
+0.22058823529411764	0.5882352941176471	facility	false	in=Netflix l=A l=Deal l=With r=http://dlvr.it/5RgcL
+0.21978021978021978	0.5882352941176471	facility	false	in=server in=2008 l=guest l=from l=a r=to r=server r=2008
+0.21897810218978103	0.5882352941176471	facility	false	in=LiLo l=Oh l=no l=, r=! r=Several r=gossip
+0.21818181818181817	0.5882352941176471	facility	false	in=Novel in=Wines l=Mark l=Rowan l=from r=here r=... r=http://fb.me/G2CLHL1H
+0.21739130434782608	0.5882352941176471	facility	false	in=Twitter l=Not l=much r=action r=here r=tonight
+0.21660649819494585	0.5882352941176471	facility	false	in=CamelBak in=BPA-Free in=Better in=Bottle in=with in=Bite in=Valve l=#cl r=by r=Camelbak r=93
+0.2158273381294964	0.5882352941176471	facility	false	in=dabigatran l=Good l=prospects l=for r=on r=Monday r=.
+0.21505376344086022	0.5882352941176471	facility	false	in=Progress in=Campus l=Centennial l=College l=( r=) r=in r=Scarborough
+0.21428571428571427	0.5882352941176471	facility	false	in=CA l=Sacramento l=. l=The r=weather r=feels r=great
+0.21352313167259787	0.5882352941176471	facility	false	in=Twitter l=: l=Jackie l=joins r=50 r=years r=after
+0.2127659574468085	0.5882352941176471	facility	false	in=Twitter l=: l=Jackie l=joins r=50 r=years r=after
+0.21201413427561838	0.5882352941176471	facility	false	in=target l=to l=walk l=into r=yesterday r=, r=I
+0.2147887323943662	0.5980392156862745	facility	true	in=Morgan in=Le in=Fays l=you l=tonight l=at r=!! r=Great r=time
+0.21403508771929824	0.5980392156862745	facility	false	in=Facebook l=An l=Entire r=Photo r=Album r=Captured
+0.21328671328671328	0.5980392156862745	facility	false	in=Facebook l=#stupidnews l=An l=Entire r=Photo r=Album r=Captured
+0.21254355400696864	0.5980392156862745	facility	false	in=Scarborough l=Campus l=) l=in r=. r=@ccsai
+0.21180555555555555	0.5980392156862745	facility	false	in=Chevron r=gouging r=consumers r=by
+0.21453287197231835	0.6078431372549019	facility	true	in=Costa in=Lounge l=come l=check l=out r=TONIGHT r=! r=Say
+0.21724137931034482	0.6176470588235294	facility	true	in=Costa in=Lounge l=come l=check l=out r=TONIGHT r=! r=Say
+0.21649484536082475	0.6176470588235294	facility	false	in=Copenhagen l=Dancing l=" l=( r=March r=2010 r=)
+0.21575342465753425	0.6176470588235294	facility	false	in=Body in=Heat l=Come l=to l=the r=signing r=at r=Hustler
+0.2150170648464164	0.6176470588235294	facility	false	in=Ecclesiastes in=7:14 l=adversity l=consider l=. r=#JESUS r=#TRUTH r=#jesustweeters
+0.21428571428571427	0.6176470588235294	facility	false	in=Serie in=A l='s l=hope l=the r=continues r=to r=be
+0.2135593220338983	0.6176470588235294	facility	false	in=Sotheby in=| in=' in=s l=Chinese l=symbols r=Hong r=Kong r=twentieth
+0.21283783783783783	0.6176470588235294	facility	false	in=pope l=day l=of l=sorting r=visit r=to r=birmingham
+0.21212121212121213	0.6176470588235294	facility	false	in=Kid in=Cudi r=Opens r=Up r=About
+0.21140939597315436	0.6176470588235294	facility	false	in=Wright in=family l=23rd l=and l=the r=Halloween r=bash r=!!
+0.21070234113712374	0.6176470588235294	facility	false	in=Charlotte l=, l=Davidson l=, r=and r=NC r=St
+0.21333333333333335	0.6274509803921569	facility	true	in=Summits l=? l=10pm l=at r=. r=Let r=me
+0.21262458471760798	0.6274509803921569	facility	false	in=Guinness l=: l=It l='s r=O'clock. r=&lt; r=--
+0.2119205298013245	0.6274509803921569	facility	false	in=Mr in=Ehrlich r=uses r=bd r=language
+0.21122112211221122	0.6274509803921569	facility	false	in=The in=Wolves r=to r=host r=the
+0.21052631578947367	0.6274509803921569	facility	false	in=Mesa l=old l=Penny l=of r=, r=AZ r=who
+0.2098360655737705	0.6274509803921569	facility	false	in=Lindsay l=Gets l=To l=See r=Tonight r=! r=:D
+0.20915032679738563	0.6274509803921569	facility	false	in=Lohan r=Failed r=A r=Drug
+0.20846905537459284	0.6274509803921569	facility	false	in=Halloween l=the l=Wright l=family r=bash r=!! r=It
+0.2077922077922078	0.6274509803921569	facility	false	in=Radio in=1 l=your l=spot l=on r=the r=other r=day
+0.20711974110032363	0.6274509803921569	facility	false	in=US l=#lindsaylohan r=- r=Lindsay r=Lohan
+0.2064516129032258	0.6274509803921569	facility	false	in=estonia r=tomorrow r=with r=@MyiaOnFyia
+0.2057877813504823	0.6274509803921569	facility	false	in=Dodgers l=Torre l=as l=LA r=manager r=after r=this
+0.20512820512820512	0.6274509803921569	facility	false	in=Loyola l=Analogy l=time l=! r=Chicago r=: r=Alexei
+0.20447284345047922	0.6274509803921569	facility	false	in=Last in=Sacrifice l=81 l=Days l=Till
+0.20382165605095542	0.6274509803921569	facility	false	in=Bio in=Spot r=6 r=Month r=Spot
+0.20317460317460317	0.6274509803921569	facility	false	in=Land in=of in=Talk l=#plan r=- r=Minneapolis r=(
+0.20253164556962025	0.6274509803921569	facility	false	in=Baka in=Boyz l=Tonight l=@AZUKARlounge r=LIVE r=w/ r=DJ
+0.20189274447949526	0.6274509803921569	facility	false	in=Whole in=Hog in=Dinner l=@refuel_bar l=: l=Annual r=Wed r=Oct r=27
+0.20125786163522014	0.6274509803921569	facility	false	in=Ryerson in=Quidditch l=Eyeopener l=vs l=. r=team r=this r=Sunday
+0.2006269592476489	0.6274509803921569	facility	false	in=Metallica l=... l=A l=: r=.: r=http://chatter.com/ask-me-anything/kt2yo
+0.2	0.6274509803921569	facility	false	in=Information in=Underground l=This l=Week l=on r=http://fb.me/JGgSgWBg
+0.19937694704049844	0.6274509803921569	facility	false	in=Yahoo in=! l=AP l=) l=( r=) r=: r=Share
+0.19875776397515527	0.6274509803921569	facility	false	in=MTV l=others l=at l=the r=show r=. r=Tonight
+0.19814241486068113	0.6274509803921569	facility	false	in=Amazon in=U.K. r=Offering r=HTC r=Desire
+0.19753086419753085	0.6274509803921569	facility	false	in=Jupiter l=- l=Better l=catch r=next r=... r=http://l.mytr.in/aQn2Kg
+0.19692307692307692	0.6274509803921569	facility	false	in=Ghostland in=Observatory l=ticket l=sales l=for r=extended r=until r=6
+0.19631901840490798	0.6274509803921569	facility	false	in=DC l=: l=Here l=in r=! r=About r=to
+0.19571865443425077	0.6274509803921569	facility	false	in=YouTube l=I l=liked l=a r=video r=-- r=Family
+0.1951219512195122	0.6274509803921569	facility	false	in=The in=Town r=was r=a r=really
+0.1945288753799392	0.6274509803921569	facility	false	in=Ohio in=State l=Frank l=Solich l=says r=knows r=they r=have
+0.19393939393939394	0.6274509803921569	facility	false	in=DOUCHEBAG in=LOS in=ANGELES in=OPENING in=WEEKEND in=EXTRAVAGANZA l=Come l=to l=" r=" r=Friday r=,
+0.1933534743202417	0.6274509803921569	facility	false	in=Lindsay in=Lohan l=OH-OH l=It l=seems r=maybe r=be r=heading
+0.1927710843373494	0.6274509803921569	facility	false	in=West in=Indies l=Lancashire l=have l=released r=fast r=bowler r=Daren
+0.1921921921921922	0.6274509803921569	facility	false	in=Dems l=#news r=to r=voters r=:
+0.19161676646706588	0.6274509803921569	facility	false	in=Blount l=to l=Davidson l=vs r=with r=Bennett- r=love
+0.191044776119403	0.6274509803921569	facility	false	in=Constitution in=Day l=Happy r=!
+0.19345238095238096	0.6372549019607843	facility	true	in=Stetson l=a l=show l=at r=in r=November r=..
+0.19287833827893175	0.6372549019607843	facility	false	in=UK l=air l=in l=the r=on r=October r=18
+0.19230769230769232	0.6372549019607843	facility	false	in=Pi l=or l=after l=at r=! r=CWE r=and
+0.19174041297935104	0.6372549019607843	facility	false	in=Ducks r=sign r=LW r=Beleskey
+0.19117647058823528	0.6372549019607843	facility	false	in=how in=high l=baked l=, l=next r=, r=grandma r=boys
+0.1935483870967742	0.6470588235294118	facility	true	in=MAiZE l=to l=go l=to r=tomorrow r=night r=with
+0.19298245614035087	0.6470588235294118	facility	false	in=Detroit l=. l=22 l=in r=. r=Register r=now
+0.1924198250728863	0.6470588235294118	facility	false	in=Kanye in=West l=Spotted l=: r=Celebrates r=LAMB r=With
+0.19186046511627908	0.6470588235294118	facility	false	in=Pretty in=Little in=Liars l=Episodes l=1-10 l=of r=will r=air r=in
+0.19130434782608696	0.6470588235294118	facility	false	in=Crocs l=every l=pair l=of r=you r=bought r=contributed
+0.1907514450867052	0.6470588235294118	facility	false	in=uk l=theycame l=to l=the r=this r=year r=,
+0.19020172910662825	0.6470588235294118	facility	false	in=Miley in=and in=Mandy in=show l=Miley l=will l=upgrade r=? r=I r=miss
+0.1896551724137931	0.6470588235294118	facility	false	in=orlando l=you l=come l=in r=one r=day r=let
+0.18911174785100288	0.6470588235294118	facility	false	in=California l=REI l=Update l=: r=Home r=Sales r=Decline
+0.18857142857142858	0.6470588235294118	facility	false	in=Mumpreneur in=Awards l=off l=to l=the r=tomorrow r=and r=leaving
+0.18803418803418803	0.6470588235294118	facility	false	in=Riley l=We l=bought r=a r=onesie r=today
+0.1875	0.6470588235294118	facility	false	in=Showbiz in=Tonight l=VIDEO l=: r=- r=Is r=TV
+0.18696883852691218	0.6470588235294118	facility	false	in=OH l=in l=Greenville l=,
+0.1864406779661017	0.6470588235294118	facility	false	in=The in=pope r=isn't r=really r=making
+0.18591549295774648	0.6470588235294118	facility	false	in=Conn l=If r=is r=less r=than
+0.1853932584269663	0.6470588235294118	facility	false	in=AK l=reportedly l=ahead l=in r=.
+0.18487394957983194	0.6470588235294118	facility	false	in=Visa l=Win l=$100 r=card r=! r=http://www.alimartell.com/index.php/2010/09/14/its-the-most-wonderful-time-of-the-year-and-im-about-to-make-it-100-better
+0.18435754189944134	0.6470588235294118	facility	false	in=Trance in=Around in=The in=World in=338 in=( in=Wippenberg in=Guestmix in=) l=: l=Above&amp;Beyond l=- r=( r=17 r=September
+0.18384401114206128	0.6470588235294118	facility	false	in=Great in=Pumpkin l=weeks l=until l=the r=rises r=! r=Maybe
+0.18333333333333332	0.6470588235294118	facility	false	in=International in=Observe in=the in=Moon in=Night r=( r=9/18/2010 r=)
+0.18282548476454294	0.6470588235294118	facility	false	in=Edmonton r=dealers r=raise r=$320000
+0.18232044198895028	0.6470588235294118	facility	false	in=SUENALO l=JANNUS l=LIVE l=... r=! r=FROM r=MIAMI
+0.18181818181818182	0.6470588235294118	facility	false	in=Romania l=shoot l=up l=after r=mo
+0.18406593406593408	0.6568627450980392	facility	true	in=Botanic in=Gdns l=weekend l=go l=to r=, r=for r=Taste
+0.18356164383561643	0.6568627450980392	facility	false	in=AHFA l=Green l=Newsfeed l=: r=extends r=deadline r=for
+0.1830601092896175	0.6568627450980392	facility	false	in=it in='s in=always in=sunny l=wonderful l=relationship l=with r=. r=Since r=I
+0.18256130790190736	0.6568627450980392	facility	false	in=MLB l=Away l=From l=in r=Odds r=: r=When
+0.18206521739130435	0.6568627450980392	facility	false	in=GuitarNews r=: r=RockHouse r=:
+0.18157181571815717	0.6568627450980392	facility	false	in=Serious in=Eats r=: r=Leftovers r=:
+0.1810810810810811	0.6568627450980392	facility	false	in=Jupiter r=: r=Closest r=Approach
+0.18059299191374664	0.6568627450980392	facility	false	in=Taorminaa l=i'll l=be l=in r=:D r=DD r=^^
+0.18010752688172044	0.6568627450980392	facility	false	in=Chicago l=Lincoln l=Park l=in r=, r=IL r=http://bit.ly/bKMFgi
+0.17962466487935658	0.6568627450980392	facility	false	in=LA l=be l=back l=in r=tomorrow r=night r=!
+0.17914438502673796	0.6568627450980392	facility	false	in=KLH l=Waters l=tickets l=on r=tonight r=between r=6:15
+0.17866666666666667	0.6568627450980392	facility	false	in=The in=Inbetweeners l=tried l=to l=watch r=for r=the r=first
+0.18085106382978725	0.6666666666666666	facility	true	in=Stars l=show l=. l=Tonight r=in r=Vordingborg r=-
+0.18037135278514588	0.6666666666666666	facility	false	in=Cebu l=on l=vacation l=in r=, r=you r=do
+0.17989417989417988	0.6666666666666666	facility	false	in=YouTube l=I l=liked l=a r=video r=-- r=Testing
+0.17941952506596306	0.6666666666666666	facility	false	in=June in=Fest in=2010 r=~ r=Forgotten r=Door
+0.17894736842105263	0.6666666666666666	facility	false	in=Harrison l=your l=time l=in r=.
+0.18110236220472442	0.6764705882352942	facility	true	in=St in=Johns l=Greek l=Festival l=at r=before r=ASPEN
+0.1806282722513089	0.6764705882352942	facility	false	in=St in=Johns l=Greek l=Festival l=at r=before r=ASPEN
+0.1801566579634465	0.6764705882352942	facility	false	in=Columbus r=, r=GA r=:
+0.1796875	0.6764705882352942	facility	false	in=God l=: l=" l=If r=brings r=you r=to
+0.17922077922077922	0.6764705882352942	facility	false	in=Prophet in=Muhammad r=[ r=peace r=&amp;
+0.17875647668393782	0.6764705882352942	facility	false	in=Lake in=Charles l=to l=Shreveport l=then r=-might r=as r=well
+0.17829457364341086	0.6764705882352942	facility	false	in=Twitter l=campaign l=: l=Had r=been r=an r=option
+0.17783505154639176	0.6764705882352942	facility	false	in=Twitter l=campaign l=: l=Had r=been r=an r=option
+0.17737789203084833	0.6764705882352942	facility	false	in=Subway l=workout l=. l=Good r=sandwich r=. r=Nice
+0.17692307692307693	0.6764705882352942	facility	false	in=Cleveland r=Browns r=( r=Official
+0.17647058823529413	0.6764705882352942	facility	false	in=Special in=Olympics l=raise l=$320000 l=for r=: r=By r=Tim
+0.1760204081632653	0.6764705882352942	facility	false	in=APO r=disaster r=relief r=tomorrow
+0.17557251908396945	0.6764705882352942	facility	false	in=ACF in=Friday in=Large in=Group l=! l=Today l='s r=is r=at r=PITT
+0.1751269035532995	0.6764705882352942	facility	false	in=Nijverdal l=i'll l=go l=to r=and r=meet r=@ElineEpica
+0.17468354430379746	0.6764705882352942	facility	false	in=MOTOGP r=: r=Round r=13
+0.17424242424242425	0.6764705882352942	facility	false	in=TEACHER'S in=DAY in=2 l=TODAY l=IS l=THE r=! r=HAPPY r=TEACHER'S
+0.17380352644836272	0.6764705882352942	facility	false	in=The in=Persuaders l=. l=http://www.pbs.org/wgbh/pages/frontline/ l=Watched r=in r=class r=today
+0.17336683417085427	0.6764705882352942	facility	false	in=Elgin l=: l=Giddings l=faces r=tonite r=@ r=Wildcat
+0.17293233082706766	0.6764705882352942	facility	false	in=CWE l=at l=Pi l=! r=and r=Delmar r=are
+0.1725	0.6764705882352942	facility	false	in=Twitter l=to l=Blogging l=and r=: r=Two r=amazing
+0.17206982543640897	0.6764705882352942	facility	false	in=SCOTT in=WEILAND r=Announces r=Memoir r=Release
+0.17164179104477612	0.6764705882352942	facility	false	in=Vikings l=? l=Twins l=? r=? r=anyone r=going
+0.17121588089330025	0.6764705882352942	facility	false	in=The in=Maccabees r=are r=the r=love
+0.1707920792079208	0.6764705882352942	facility	false	in=nini l=lmfao l=wooooooow l=( r=knws r=wsup r=ha
+0.17037037037037037	0.6764705882352942	facility	false	in=ngmoco l=forced l=ads l=in r=games r=are r=outstandingly
+0.16995073891625614	0.6764705882352942	facility	false	in=London l=Pope l=clogging l=up r=tomorrow r=. r=I
+0.16953316953316952	0.6764705882352942	facility	false	in=Dems r=to r=voters r=:
+0.16911764705882354	0.6764705882352942	facility	false	in=Burrow l=, l=Haines l=and r=each r=had r=home
+0.1687041564792176	0.6764705882352942	facility	false	in=Tony in=Blair l=he l='s l=played r=.
+0.16829268292682928	0.6764705882352942	facility	false	in=American in=Professional in=Football in=Association l=birthday l=of l=the r=( r=we r=call
+0.1678832116788321	0.6764705882352942	facility	false	in=Delhomme l=) l=&gt; l=&gt; r=doubtful r=for r=Sunday
+0.16747572815533981	0.6764705882352942	facility	false	in=sanchez l=buckboardday l=parade l=then r=family r=reunion r=then
+0.16707021791767554	0.6764705882352942	facility	false	in=YouTube l=Our l=Favorite r=Videos r=This r=Week
+0.16666666666666666	0.6764705882352942	facility	false	in=YouTube l=Our l=Favorite r=Videos r=This r=Week
+0.16626506024096385	0.6764705882352942	facility	false	in=YouTube l=@mashable l=Our l=Favorite r=Videos r=This r=Week
+0.1658653846153846	0.6764705882352942	facility	false	in=YouTube l=Our l=Favorite r=Videos r=This r=Week
+0.16546762589928057	0.6764705882352942	facility	false	in=YouTube l=Our l=Favorite r=Videos r=This r=Week
+0.16507177033492823	0.6764705882352942	facility	false	in=YouTube l=Our l=Favorite r=Videos r=This r=Week
+0.16467780429594273	0.6764705882352942	facility	false	in=YouTube l=Our l=Favorite r=Videos r=This r=Week
+0.16428571428571428	0.6764705882352942	facility	false	in=YouTube l=Our l=Favorite r=Videos r=This r=Week
+0.166270783847981	0.6862745098039216	facility	true	in=The in=Metro r=Sept r=26 r=Mannie
+0.16587677725118483	0.6862745098039216	facility	false	in=buckboardday in=parade l=up l=early l=for r=then r=sanchez r=family
+0.16548463356973994	0.6862745098039216	facility	false	in=Chicago r=Weekend r=Events r=:
+0.1650943396226415	0.6862745098039216	facility	false	in=Ryerson in=Quidditch in=team l=Eyeopener l=vs l=. r=this r=Sunday r=at
+0.16705882352941176	0.696078431372549	facility	true	in=Fight in=Club l=Night l=, l=Wednesday-MvC3 r=in r=Chicago r=.
+0.16666666666666666	0.696078431372549	facility	false	in=Copa in=Sudamericana r=#2010 r=: r=Thursday
+0.16627634660421545	0.696078431372549	facility	false	in=Dancing in=Queen l=Friday l=- l=" r=" r=http://bit.ly/d49VXU'
+0.1658878504672897	0.696078431372549	facility	false	in=Mar in=Adentro l=who l=directed l=" r=" r=( r="
+0.1655011655011655	0.696078431372549	facility	false	in=Sandman in=Slim l=enjoy l=my l=#wkndread r=by r=Richard r=Kadrey
+0.16511627906976745	0.696078431372549	facility	false	in=mv l=other l=half l=in r=... r=where r=u
+0.16473317865429235	0.696078431372549	facility	false	in=PAMPERS l=WIN l=FREE r=FOR r=A r=YEAR
+0.16435185185185186	0.696078431372549	facility	false	in=Engadget r=: r=Sky r=3D
+0.16628175519630484	0.7058823529411765	facility	true	in=Peppers r=with r=Kathy r=...
+0.16589861751152074	0.7058823529411765	facility	false	in=Naples l=: l=Performing l=in r=tomorrow r=with r=N.E.R.D.
+0.16551724137931034	0.7058823529411765	facility	false	in=VMAs r=. r=( r=:
+0.1651376146788991	0.7058823529411765	facility	false	in=Pedigree r=Donates r=Dog r=Food
+0.16475972540045766	0.7058823529411765	facility	false	in=Lindsay in=Lohan l=: l=TMZ l=Reporting r=Just r=Failed r=Her
+0.16666666666666666	0.7156862745098039	facility	true	in=VISIONS in=LOUNGE l=B4 l=11PM l=! r=( r=247 r=1ST
+0.1662870159453303	0.7156862745098039	facility	false	in=Twitter l=- l=read l=this r=newspaper r=on r=http://bit.ly/aQOoSP
+0.16590909090909092	0.7156862745098039	facility	false	in=Thanksgiving l=On r=after r=you r=done
+0.1655328798185941	0.7156862745098039	facility	false	in=Thanksgiving l=On r=after r=you r=done
+0.16515837104072398	0.7156862745098039	facility	false	in=#BB11 l=Bentley l=! l=)
+0.16478555304740405	0.7156862745098039	facility	false	in=Yahoo r=: r=Jackie r=joins
+0.16441441441441443	0.7156862745098039	facility	false	in=Yahoo r=: r=Jackie r=joins
+0.16404494382022472	0.7156862745098039	facility	false	in=Anja in=Rubik r=Model r=in r=Lingerie
+0.16367713004484305	0.7156862745098039	facility	false	in=Browns l=Cleveland r=( r=Official r=Site
+0.16331096196868009	0.7156862745098039	facility	false	in=YouTube l=I l=favorited l=a r=video r=-- r=Water
+0.16294642857142858	0.7156862745098039	facility	false	in=YouTube l=I l=favorited l=a r=video r=-- r=Yoav
+0.16258351893095768	0.7156862745098039	facility	false	in=BCAT l=@ l=3AM l=on r=feat r=@BlissyCakes r=@YaGirlNicolette
+0.1622222222222222	0.7156862745098039	facility	false	in=Gainesville l=are l=staying l=in r=, r=come r=check
+0.16186252771618626	0.7156862745098039	facility	false	in=Gainesville l=are l=staying l=in r=, r=come r=check
+0.16150442477876106	0.7156862745098039	facility	false	in=Hoegaarden l=local l=grocery l=carries r=.
+0.16114790286975716	0.7156862745098039	facility	false	in=Oakland l=Woot l=! l=My r=line r=made r=the
+0.16079295154185022	0.7156862745098039	facility	false	in=New in=York l=Fashion l=Week l=: r=Fa r=... r=http://bit.ly/aMaJNB
+0.16043956043956045	0.7156862745098039	facility	false	in=iPhone4 l=less l=capacity l=than r=... r=4 r=years
+0.1600877192982456	0.7156862745098039	facility	false	in=Newcastle l=Just l=bought l=my r=K r=! r=Tour
+0.15973741794310722	0.7156862745098039	facility	false	in=Starstruck r=Promo r=Special r=:
+0.15938864628820962	0.7156862745098039	facility	false	in=Music in=News in=Net l=Memoir l=Release l=- r=: r=MUSIC r=NEWS
+0.15904139433551198	0.7156862745098039	facility	false	in=CampaignMonitor r=denied r=list r=of
+0.15869565217391304	0.7156862745098039	facility	false	in=Doha l=36 l=seconds l=to r=....
+0.15835140997830802	0.7156862745098039	facility	false	in=SHAKEMODE l=FROM l=MIAMI l=W/ r=AND r=INDIGENOUS r=...
+0.15800865800865802	0.7156862745098039	facility	false	in=After in=Eventide r=( r=Kindle r=Edition)By
+0.15766738660907129	0.7156862745098039	facility	false	in=Rousseff l=Right l=arm r=, r=Erenice r=War
+0.15732758620689655	0.7156862745098039	facility	false	in=Above&amp;Beyond l=http://sk.mu/aEnsGunwfr9 l=: r=- r=Trance r=Around
+0.15698924731182795	0.7156862745098039	facility	false	in=Marcus in=Bentley l=. l=( l=Awaiting r=! r=) r=#BB11
+0.15665236051502146	0.7156862745098039	facility	false	in=Words in=and in=Wine l=Art l=" l=at r=September r=... r=http://fb.me/AyezVfH3'
+0.15631691648822268	0.7156862745098039	facility	false	in=St in=John in='s in=wort l=Day l=three l=of r=tea r=for r=anxiety
+0.1581196581196581	0.7254901960784313	facility	true	in=Hi in=Pac l=come l=down l=to r=and r=check r=it
+0.15778251599147122	0.7254901960784313	facility	false	in=Cheryl l=Just l=casually l=stalking r=AND r=Dermot r=tomorrow
+0.1574468085106383	0.7254901960784313	facility	false	in=6th in=Biannual in=24 in=Hour in=Prayer in=Focus l=Come l=to l=" r=" r=Saturday r=,
+0.15711252653927812	0.7254901960784313	facility	false	in=Hawaii l=show l=tomorrow l=in r=?
+0.15677966101694915	0.7254901960784313	facility	false	in=Hawaii l=show l=tomorrow l=in r=?
+0.15644820295983086	0.7254901960784313	facility	false	in=TMZ l=: l=Update l=: r=Reporting r=Lindsay r=Lohan
+0.15611814345991562	0.7254901960784313	facility	false	in=USA l=my l=ride l=across r=, r=tonight r=only
+0.15578947368421053	0.7254901960784313	facility	false	in=Vancouver l=' l=Returns l=to r=on r=January r=11th
+0.15546218487394958	0.7254901960784313	facility	false	in=Yanks l=Let l='s l=go r=! r=Sad r=that
+0.15513626834381553	0.7254901960784313	facility	false	in=ON l=in l=Orillia l=, r=at r=Leacock r=Museum
+0.15481171548117154	0.7254901960784313	facility	false	in=Umar in=Gul l=Reuters l=) l=- r=took r=... r=http://bit.ly/ckNyMG
+0.15657620041753653	0.7352941176470589	facility	true	in=OFF in=the in=GRID l=Soyrizo l=Tamales l=at r=Fort r=Mason r=at
+0.15625	0.7352941176470589	facility	false	in=-Larry in=Bird l=the l=end l=.
+0.15592515592515593	0.7352941176470589	facility	false	in=HTC in=Desire in=Z l=word l=of l=the r=earlier r=in r=Lo
+0.15560165975103735	0.7352941176470589	facility	false	in=HTC in=Desire in=Z l=word l=of l=the r=earlier r=in r=Lo
+0.15527950310559005	0.7352941176470589	facility	false	in=Lohan r=fails r=drug r=test
+0.15495867768595042	0.7352941176470589	facility	false	in=Jets r=coach r=Rex r=Ryan
+0.15463917525773196	0.7352941176470589	facility	false	in=Friday in=Night in=Lights l=going l=to l=see r=?
+0.15432098765432098	0.7352941176470589	facility	false	in=Shpongle l=( l=Live) l=, r=( r=Simon r=Posford
+0.1540041067761807	0.7352941176470589	facility	false	in=Singapore l=Sea l=Intervention l=opens r=facility r=: r=September
+0.15368852459016394	0.7352941176470589	facility	false	in=BranchOut l=Facebook l=Job-Hunting l=App r=Raises r=$6 r=Million
+0.1554192229038855	0.7450980392156863	facility	true	in=JANNUS in=LIVE l=ON l=TONIGHT l=AT r=... r=SUENALO r=!
+0.15510204081632653	0.7450980392156863	facility	false	in=Temecula l=: l=Observances l=in r=and r=elsewhere r=throughout
+0.15478615071283094	0.7450980392156863	facility	false	in=Giddings l=Buffs l=FB l=: r=faces r=Elgin r=tonite
+0.15447154471544716	0.7450980392156863	facility	false	in=Scotland l=out l=here l=in r=yet r=? r=i've
+0.15415821501014199	0.7450980392156863	facility	false	in=NC l=IN l=HICKORY l=, r=ON r=WEDNESDAY r=;
+0.15384615384615385	0.7450980392156863	facility	false	in=Time in=Warner in=Cable r=Boycotting r=Epix r=Movie
+0.15353535353535352	0.7450980392156863	facility	false	in=Kirsten l=With r=( r=: r=going
+0.1532258064516129	0.7450980392156863	facility	false	in=California r=Woman r=Dies r=in
+0.1529175050301811	0.7450980392156863	facility	false	in=ASPEN l=St l=Johns l=before
+0.15261044176706828	0.7450980392156863	facility	false	in=ASPEN l=St l=Johns l=before
+0.1523046092184369	0.7450980392156863	facility	false	in=Joe in=Torre l=Mattingly l=will l=replace r=as r=LA r=Dodgers
+0.152	0.7450980392156863	facility	false	in=sfitzy93 r=asked r=: r=No
+0.15169660678642716	0.7450980392156863	facility	false	in=Chelsea in=Handler l=smexy l=!!; l=)And r=is r=hilarious r=!
+0.15139442231075698	0.7450980392156863	facility	false	in=Chicago l=Deal l=Pro l=in r=in r=November r=!
+0.15109343936381708	0.7450980392156863	facility	false	in=Epix in=Movie in=Channel l=Warner l=Cable l=Boycotting r=Because r=It r=Did
+0.15079365079365079	0.7450980392156863	facility	false	in=Mayan in=Doomsday l=20 l=seconds l=Until r=, r=DEC r=22
+0.1504950495049505	0.7450980392156863	facility	false	in=HCA in=8K l=us l=for l=the r=! r=We r=start
+0.15019762845849802	0.7450980392156863	facility	false	in=Deborah in=L l=the l=Month l=: r=#Speech r=#Pathologist-Childrens r=Rehab
+0.15187376725838264	0.7549019607843137	facility	true	in=Champlain in=campus l=. l=Intervals l=from r=. r=Pretty r=.
+0.1515748031496063	0.7549019607843137	facility	false	in=Newcastle-Upon-Tyne l=see l=you l=at r=in r=Feb r=,
+0.1512770137524558	0.7549019607843137	facility	false	in=Jup in=Force in=PvP l=I'm l=afraid l=the r=event r=is r=delayed
+0.15098039215686274	0.7549019607843137	facility	false	in=IPad l=next l=iPad l=. r=... r=http://bit.ly/9gplXp
+0.1506849315068493	0.7549019607843137	facility	false	in=GOP l=us l=, l=but r=is r=worse r=(
+0.150390625	0.7549019607843137	facility	false	in=GOP l=us l=, l=but r=is r=worse r=(
+0.15009746588693956	0.7549019607843137	facility	false	in=imdb l=should l=be l=on r=;)
+0.14980544747081712	0.7549019607843137	facility	false	in=Lindsay in=Lohan l=RT l=@peoplemag l=: r=fails r=court-mandated r=drug
+0.14951456310679612	0.7549019607843137	facility	false	in=God l=pray l=an l=give r=glory r=even r=when
+0.14922480620155038	0.7549019607843137	facility	false	in=Plano in=Balloon in=Festival l=Balloon l=Festival l=, r=2 r=... r=http://tinyurl.com/22kg6uz
+0.14893617021276595	0.7549019607843137	facility	false	in=Cyber-Ark l=technology l=today l=http://bit.ly/9cugk1 r=to r=Showcase r=Business
+0.14864864864864866	0.7549019607843137	facility	false	in=GOTTA in=BODY l=DEMAND l=TONITE l=" r=" r=MUST r=LISTEN
+0.14836223506743737	0.7549019607843137	facility	false	in=Middle in=East l=fans l=in l=the r=:) r=hope r=to
+0.14807692307692308	0.7549019607843137	facility	false	in=Newcastle in=Jets in=Youth l=#futbol l=&gt; r=v r=AIS r=U21
+0.14779270633397312	0.7549019607843137	facility	false	in=Davidson l=Headed l=to r=vs r=Blount r=with
+0.1475095785440613	0.7549019607843137	facility	false	in=Constitution in=Day l=@NROcorner l=: l=Why r=Matters r=:
+0.14722753346080306	0.7549019607843137	facility	false	in=China l=the l=headline l=" r=needs r=to r=elaborate
+0.14694656488549618	0.7549019607843137	facility	false	in=iTunes l=Labels l=Happy l=About r=Alternative r=? r=-
+0.14666666666666667	0.7549019607843137	facility	false	in=Paris l=with l=Trisha l=in r=for r=this r=week
+0.14638783269961977	0.7549019607843137	facility	false	in=Gabriel in=Resources l=much l=opportunity l=. r=shares r=shoot r=up
+0.1461100569259962	0.7549019607843137	facility	false	in=msn l=never l=go l=on r=! r=I'll r=dm
+0.14583333333333334	0.7549019607843137	facility	false	in=mothers in=day r=greeting r=cards r=:)
+0.14555765595463138	0.7549019607843137	facility	false	in=Gwen in=Stefani l=Jessica l=Parker l=and r=Wrap r=Up r=Another
+0.14528301886792452	0.7549019607843137	facility	false	in=Park(ing in=) in=Day l=I l=heart r=! r=Photo r=of
+0.14500941619585686	0.7549019607843137	facility	false	in=you in=tube l=on l=to l=@mckenziecomer r=channel r=today r=5
+0.14473684210526316	0.7549019607843137	facility	false	in=twitter l=Just l=changed l=my r=background r=, r=check
+0.14446529080675422	0.7549019607843137	facility	false	in=FB l=status l=updates l=on r=, r=they r=are
+0.1441947565543071	0.7549019607843137	facility	false	in=Miami in=2 in=Ibiza l=of l=@swedishousemfia l=- r=on r=the r=show
+0.14392523364485982	0.7549019607843137	facility	false	in=Amber in=Le in=Bon r=is r=to r=walk
+0.14365671641791045	0.7549019607843137	facility	false	in=gucci l=long l=walks l=in r=shoes r=...
+0.14338919925512103	0.7549019607843137	facility	false	in=Newport l=Avenue l=in l=the r=... r=http://tumblr.com/xmyiud0zl
+0.14312267657992564	0.7549019607843137	facility	false	in=Yom in=Kippur l=a l=halt l=for r=fasting r=day r=(
+0.14285714285714285	0.7549019607843137	facility	false	in=Keppinger l=for l=tonight l=. r=sits r=, r=Downs
+0.1425925925925926	0.7549019607843137	facility	false	in=Constitution in=Day l=Party l=, l=and r=: r=The r=inclusion
+0.1423290203327172	0.7549019607843137	facility	false	in=Dylan r=refuses r=to r=take
+0.14206642066420663	0.7549019607843137	facility	false	in=Lancashire l=go l=early l=: r=have r=released r=West
+0.141804788213628	0.7549019607843137	facility	false	in=UI l=! l=Free l=for r=faculty/staff r=&amp; r=their
+0.14154411764705882	0.7549019607843137	facility	false	in=Katie r=up r=6-0 r=after
+0.14128440366972478	0.7549019607843137	facility	false	in=South in=Park- l=thru l=Sunday l=in r=please r=retweet r=please
+0.14102564102564102	0.7549019607843137	facility	false	in=Sacramento l=Woke l=up l=in r=. r=The r=CA
+0.14076782449725778	0.7549019607843137	facility	false	in=Fall in=Out in=Boy l=agree l=RT l=@fanoffob r=is r=gay r=#reallymeans
+0.14051094890510948	0.7549019607843137	facility	false	in=It in='s in=Gucci in=Time l=head l=rockin'. l=&quot; r=!&quot; r=#nodisrespect r=I
+0.14025500910746813	0.7549019607843137	facility	false	in=Conan l=ratins l=up l=before r=Get r=back-Big r=Jack
+0.14	0.7549019607843137	facility	false	in=gucci l=dude l=got r=symbol r=tatted r=all
+0.1397459165154265	0.7549019607843137	facility	false	in=twitter l=tired l=.. l=Goodnight r=! r=tty r=tomorrow
+0.13949275362318841	0.7549019607843137	facility	false	in=LAMB l=Kanye l=West l=Celebrates r=With r=Gwen r=Stefani
+0.13924050632911392	0.7549019607843137	facility	false	in=FACEBOOK l=WAS l=JUST l=ON r=1 r=MIN r=AGO
+0.13898916967509026	0.7549019607843137	facility	false	in=MADI l=TURNS l=OUT l=FUCKING r=HAS r=AN r=ILLNESS
+0.13873873873873874	0.7549019607843137	facility	false	in=Twitter l=I l=get l=a r=software r=to r=spew
+0.13848920863309352	0.7549019607843137	facility	false	in=M in=. in=Night l=ragging l=on l=poor r=for r=weeks r=now
+0.13824057450628366	0.7549019607843137	facility	false	in=Crown in=College l=soccer l=vs l=. r=at r=home r=tomorrow
+0.13799283154121864	0.7549019607843137	facility	false	in=Optimise l=week l=in l=the r=office r=, r=another
+0.13774597495527727	0.7549019607843137	facility	false	in=SEDUCTION in=SATURDAYS l=&gt; l=&gt; l=http://schmap.it/u046mn r=@ r=CALABASH r=LOUNGE
+0.1375	0.7549019607843137	facility	false	in=SHS l=go l=to l=a r=football r=game r=cuz
+0.13725490196078433	0.7549019607843137	facility	false	in=iPad l=of l=the l=next r=. r=IPad r=...
+0.13701067615658363	0.7549019607843137	facility	false	in=SF l=time l=now l=btwn r=and r=San r=Mateo
+0.13676731793960922	0.7549019607843137	facility	false	in=Abby l=the l=big l=sis r=tonite
+0.13652482269503546	0.7549019607843137	facility	false	in=LCL l=. l=Updates l=on
+0.13628318584070798	0.7549019607843137	facility	false	in=Pavonia in=Avenue l=Square l=Place l=on r=in r=the r=Newport
+0.13604240282685512	0.7549019607843137	facility	false	in=alderwood l=! l=going l=to r=again r=:) r=yay
+0.13580246913580246	0.7549019607843137	facility	false	in=Alexei l=Loyola l=Chicago l=: r=:: r=Philadelphia r=Eagles
+0.13556338028169015	0.7549019607843137	facility	false	in=Twitter l=@RoundhouseLDN l=has l=a r=account r=. r=So
+0.13532513181019332	0.7549019607843137	facility	false	in=London in=Irish l=and l=whites l=against r=. r=Only r=a
+0.13508771929824562	0.7549019607843137	facility	false	in=This in=Is in=Our in=Someday l=@jettathatsme l=: l=#nowplaying- r=- r=Big r=Time
+0.13485113835376533	0.7549019607843137	facility	false	in=UMass l=. l=Parks l=, r=band r=director r=,
+0.1346153846153846	0.7549019607843137	facility	false	in=Pope l=No l=. l=The r=asked r=me r=to
+0.1343804537521815	0.7549019607843137	facility	false	in=bahamas l=leaving l=for l=the r=tomorrow r=though r=!!
+0.13588850174216027	0.7647058823529411	facility	true	in=the in=Fitzwilliam l=well l=spent l=in r=.
+0.1356521739130435	0.7647058823529411	facility	false	in=Tiger in=Woods l=top-ranked l=golfer l=, r=. r=If r=a
+0.13541666666666666	0.7647058823529411	facility	false	in=Breaking in=&amp; in=Entering l=the l=return l=of r=. r=Be r=sure
+0.13518197573656845	0.7647058823529411	facility	false	in=Chicago l=time l=! l=Loyola r=: r=Alexei r=::
+0.13494809688581316	0.7647058823529411	facility	false	in=Dortmunder in=Gold l=On l=my l=third r=.
+0.13471502590673576	0.7647058823529411	facility	false	in=Ayodhya l=of l=reactions l=after r=verdict r=.
+0.13620689655172413	0.7745098039215687	facility	true	in=lhs l=i l=went l=to
+0.1359724612736661	0.7745098039215687	facility	false	in=Verona l=back l=from r=:) r=Looking r=forward
+0.13573883161512026	0.7745098039215687	facility	false	in=Brett in=Favre l=draft l=choice l=: r=.
+0.13550600343053174	0.7745098039215687	facility	false	in=FDA l=this l=week l=, r=Commissioner r=Margaret r=Hamburg
+0.13527397260273974	0.7745098039215687	facility	false	in=Benjamin in=Button l=that l=Lil l=Mama/ r=disease
+0.13504273504273503	0.7745098039215687	facility	false	in=AMerican l=kick l=back l=on r=flight r=back r=to
+0.1348122866894198	0.7745098039215687	facility	false	in=iPad r=Refresh r=Due r=in
+0.13458262350936967	0.7745098039215687	facility	false	in=Madden r=tonite r=!!! r=the
+0.13435374149659865	0.7745098039215687	facility	false	in=Brady l=wanted l=to l=diminish r=&amp; r=end r=up
+0.13412563667232597	0.7745098039215687	facility	false	in=Dermot l=stalking l=Cheryl l=AND r=tomorrow r=.... r=NO
+0.13389830508474576	0.7745098039215687	facility	false	in=Widro l=360 l=: l=by r=- r=September r=17
+0.13367174280879865	0.7745098039215687	facility	false	in=Giles in=Deacon l=to l=walk l=in r='s r=Monday r=LFW
+0.13344594594594594	0.7745098039215687	facility	false	in=ufc l=Catching l=up l=on r=now
+0.13322091062394603	0.7745098039215687	facility	false	in=Devil l=&quot; l=until l=&quot; r=&quot; r=starts r=!
+0.13468013468013468	0.7843137254901961	facility	true	in=ESB l=State l=Building l= r=. r=Pretty r=bad
+0.13445378151260504	0.7843137254901961	facility	false	in=Joy in=Huhn l=you l=" l=-
+0.1342281879194631	0.7843137254901961	facility	false	in=LA l=our l=SF l=and r=offices r=. r=Glad
+0.13400335008375208	0.7843137254901961	facility	false	in=LW in=Beleskey l=Ducks l=sign r=to r=2-year r=extension
+0.13377926421404682	0.7843137254901961	facility	false	in=Pope l=about l=the l=bloody r=clogging r=up r=London
+0.1335559265442404	0.7843137254901961	facility	false	in=Nokia in=5800 l=, l=winning l=a r=?
+0.13333333333333333	0.7843137254901961	facility	false	in=Jasmin l=Robinhoods l=bay l=In r=. r=Good r=weekend
+0.13311148086522462	0.7843137254901961	facility	false	in=Denise in=Calaman l=market l=: l=by r=The r=July r=2010
+0.132890365448505	0.7843137254901961	facility	false	in=Miley in=Cyrus l=OMG l=! r=Has r=A r=14-Year-Old
+0.13266998341625208	0.7843137254901961	facility	false	in=Easy in=A l=time l=watching l=&quot; r=&quot; r=until r=&quot;
+0.13245033112582782	0.7843137254901961	facility	false	in=General in=Hospital l=video l=out l=-- r=Spoilers r=Week r=9-27-10
+0.1322314049586777	0.7843137254901961	facility	false	in=S.F. l=What l=Do r=Rabbis r=Eat r=Before
+0.13366336633663367	0.7941176470588235	facility	true	in=new in=Teaze in=cafe l=waffles l=! l=@ r=by r=the r=library
+0.13344316309719934	0.7941176470588235	facility	false	in=Nashville l=has l=arrived l=in r=-- r=Give r=it
+0.13322368421052633	0.7941176470588235	facility	false	in=Nashville l=has l=arrived l=in r=-- r=Give r=it
+0.1330049261083744	0.7941176470588235	facility	false	in=SF l=week l=in l=our r=and r=LA r=offices
+0.13278688524590163	0.7941176470588235	facility	false	in=GA l=much l=prefer l=a r=announcement r=that r=they
+0.132569558101473	0.7941176470588235	facility	false	in=Pope in=Benedict in=XVI l=toward l=sainthood l=?: r=plans r=on r=Sunday
+0.1323529411764706	0.7941176470588235	facility	false	in=Twitter l=day l=. l=For r=, r=is r=when
+0.13213703099510604	0.7941176470588235	facility	false	in=auburn l=toooonight l=. l=then r=game r=tomorrow r=!!!!
+0.13192182410423453	0.7941176470588235	facility	false	in=iPhone l=size l=of l=my r=with r=less r=capacity
+0.13170731707317074	0.7941176470588235	facility	false	in=Walk in=at in=Work in=Day l=participates l=in l=national r=http://bit.ly/cJ0wpo
+0.1314935064935065	0.7941176470588235	facility	false	in=Costa in=do in=Sauipe l=twenty-four l=days l=for r=*-*
+0.1312803889789303	0.7941176470588235	facility	false	in=Parking in=Day r=- r=Parking r=Day
+0.13106796116504854	0.7941176470588235	facility	false	in=Shreveport l=@TRAEABN l=Headed l=to r=then r=Lake r=Charles
+0.1308562197092084	0.7941176470588235	facility	false	in=Dan in=Martin l=says l=@Section8Chicago l='s r=in r=this r=week
+0.13064516129032258	0.7941176470588235	facility	false	in=Conflicts in=of in=Law in=: in=Cases in=and in=Materials r=: r=R r=.
+0.13043478260869565	0.7941176470588235	facility	false	in=Juniper l=on l=Cisco l=AND r=routers r=for r=America
+0.1302250803858521	0.7941176470588235	facility	false	in=Ft in=Mitchell l=the l=road l=in r=. r=No r=time
+0.13001605136436598	0.7941176470588235	facility	false	in=git l=have l=opened l=a r=manual r=.
+0.13141025641025642	0.803921568627451	facility	true	in=Herbivore l=Heading l=to r=tonight r=for r=dinner
+0.1312	0.803921568627451	facility	false	in=Sage in=Award l=extends l=deadline l=for r=to r=Nov r=.
+0.13099041533546327	0.803921568627451	facility	false	in=Beyonce l=New l=Post l=: r=: r=I r=Am
+0.13078149920255183	0.803921568627451	facility	false	in=Benitez l=leads l=4-1 l=after r=scores r=again r=,
+0.1305732484076433	0.803921568627451	facility	false	in=Benitez l=leads l=4-1 l=after r=scores r=again r=,
+0.13036565977742448	0.803921568627451	facility	false	in=Soulja in=Boy r=| r=TheDeAndreWay r=.
+0.13015873015873017	0.803921568627451	facility	false	in=Soulja in=Boy r=| r=TheDeAndreWay r=.
+0.12995245641838352	0.803921568627451	facility	false	in=Soulja in=Boy r=| r=TheDeAndreWay r=.
+0.12974683544303797	0.803921568627451	facility	false	in=Soulja in=Boy r=| r=TheDeAndreWay r=.
+0.12954186413902052	0.803921568627451	facility	false	in=Natives l=Shows l=Tonight-Local r=@TheMusicBoxLA r=, r=Primus
+0.12933753943217666	0.803921568627451	facility	false	in=Wake r=, r=Davidson r=,
+0.12913385826771653	0.803921568627451	facility	false	in=Mannie in=Fresh l=Metro l=Sept l=26 r=and r=Jermaine r=Dupri
+0.13050314465408805	0.8137254901960784	facility	true	in=the in=Apollo l=First l=time l=to r=.
+0.130298273155416	0.8137254901960784	facility	false	in=Jennifer l=Francisco l=6pm l=contact r=. r=Gainza@nmss r=.
+0.13009404388714735	0.8137254901960784	facility	false	in=The in=Get in=Up in=Kids r=, r=Sunny r=Day
+0.1298904538341158	0.8137254901960784	facility	false	in=WoW l=group l=wrong l=in r=. r=Sometimes r=you
+0.1296875	0.8137254901960784	facility	false	in=Chapel in=Hill l=police l=escort l=in r=... r=game r=tonight
+0.1294851794071763	0.8137254901960784	facility	false	in=TD in=Jakes in=Day l=#blackholidays
+0.1292834890965732	0.8137254901960784	facility	false	in=CORT l=Lounge22 l=Powered l=by r=collection r=! r=The
+0.1290824261275272	0.8137254901960784	facility	false	in=God l=crying l=. l=24/7 r=is r=great r=!!!
+0.12888198757763975	0.8137254901960784	facility	false	in=iTunes l=App l=news l=: r=Instant r=: r=Search
+0.12868217054263567	0.8137254901960784	facility	false	in=Cristobal in=Huet l=Stan l=Bowman l=said r=will r=be r=gone
+0.12848297213622292	0.8137254901960784	facility	false	in=AP l=is l=worse l=( r=) r=( r=Yahoo
+0.12828438948995363	0.8137254901960784	facility	false	in=#Dallas l=Sunshine l=Band l=. r=#concerts r=http r=:/
+0.12808641975308643	0.8137254901960784	facility	false	in=verizon l=starting l=to l=hate r=. r=I r=normally
+0.12788906009244994	0.8137254901960784	facility	false	in=Cahill l=for l=tonight l='s r=event r=: r=http://youtu.be/KX5jNnDMfxA
+0.1276923076923077	0.8137254901960784	facility	false	in=The in=Devils in=Art l=songs l=from l=" r=" r=at r=Words
+0.12749615975422426	0.8137254901960784	facility	false	in=He in='s in=Just in=A in=Boy l=@KenzieComersMum l=: l=&quot; r=&quot; r=music r=video
+0.1273006134969325	0.8137254901960784	facility	false	in=Princess in=Lover in=OVA in=1 l=not l=forget l=the r=teaser r=pic r=,
+0.12710566615620214	0.8137254901960784	facility	false	in=AL l=- l=Greenville l=, r=http://bit.ly/dflARA
+0.12691131498470948	0.8137254901960784	facility	false	in=Society in=of in=Mining in=and in=Metallurgy in=Engineers l=tonight l=with l=the r=.
+0.1267175572519084	0.8137254901960784	facility	false	in=Society in=of in=Mining in=and in=Metallurgy in=Engineers l=tonight l=with l=the r=.
+0.12652439024390244	0.8137254901960784	facility	false	in=Christchurch l=km l=south-west l=of r=. r=http://tinyurl.com/265n4mx r=#eqnz
+0.1263318112633181	0.8137254901960784	facility	false	in=super in=nintendo r=sega r=genesis r=,
+0.12613981762917933	0.8137254901960784	facility	false	in=GA l=@Tink3rbell94 l=going l=to r=, r=don't r=know
+0.125948406676783	0.8137254901960784	facility	false	in=Merlot l=Lots l=of r=on r=Thursday r=night
+0.12575757575757576	0.8137254901960784	facility	false	in=twitter l=tally l=) l=tonight r=!!
+0.12556732223903178	0.8137254901960784	facility	false	in=Iron in=Man in=2 l=#October r=( r=Three-Disc r=Blu-ray/DVD
+0.12537764350453173	0.8137254901960784	facility	false	in=Microsoft l=+ l=bottle l=of r=provided r=champagne r=
+0.12518853695324283	0.8137254901960784	facility	false	in=K in=! in=Tour l=bought l=my l=Newcastle r=ticket r=! r=XD
+0.125	0.8137254901960784	facility	false	in=Jarred in=Gidley l=to l=the l=homie r=!
+0.12631578947368421	0.8235294117647058	facility	true	in=Knighttime in=Billiards l=Saturday l=Night l=, r=with r=4D r=!
+0.12612612612612611	0.8235294117647058	facility	false	in=Hamm l=You l=gone l=go r=next r=Thursday r=on
+0.12593703148425786	0.8235294117647058	facility	false	in=Sweden l=will l=be l=in r=, r=so r=you
+0.12574850299401197	0.8235294117647058	facility	false	in=COLLEGE in=REPUBLICAN in=TAILGATE l=Stop l=by l=the r=tomorrow r=@ r=9:30
+0.12556053811659193	0.8235294117647058	facility	false	in=St in=. in=Patty in='s in=Day l=Half l=Way l=to r=Party r=Tonight r=!
+0.1253731343283582	0.8235294117647058	facility	false	in=LIVESTRONG in=Day r=is r=10-02-10 r=around
+0.12518628912071536	0.8235294117647058	facility	false	in=England l=it l='s l=in r=. r=Will r=tweet
+0.125	0.8235294117647058	facility	false	in=INDIGENOUS l=W/ l=SHAKEMODE l=AND r=...
+0.12481426448736999	0.8235294117647058	facility	false	in=green in=tea l=Peace r=time r=!! r=Happyzone
+0.12462908011869436	0.8235294117647058	facility	false	in=Primus l=Natives l=@TheMusicBoxLA l=, r=@ClubNokia r=Marina&amp;Diamonds r=@ElReyTheatre
+0.12444444444444444	0.8235294117647058	facility	false	in=MAC l=have l=n't l=tried r=. r=Next r=time
+0.1242603550295858	0.8235294117647058	facility	false	in=Bush l=WaPo l=: l=renewing r=tax r=cuts r=would
+0.1240768094534712	0.8235294117647058	facility	false	in=Lebowski in=Fest l=Weekend l=Events l=: r=, r=Dave r=Matthews
+0.12389380530973451	0.8235294117647058	facility	false	in=Younger in=Brother l=NOVEMBER l=18 l=... r=( r=Live) r=,
+0.12371134020618557	0.8235294117647058	facility	false	in=XBOX l=THE l=MOTHER l=FUCKING r=. r=Worst r=fucking
+0.12352941176470589	0.8235294117647058	facility	false	in=Arthurs in=Pass l=Lindis l=Pass l=and r=today r=http://ow.ly/2G4Re r=No
+0.12334801762114538	0.8235294117647058	facility	false	in=Calcio l=has l=fans l=of r=worried r=....
+0.12316715542521994	0.8235294117647058	facility	false	in=New in=York l='s l=go l=to r=tomorrow r=with r=Blakehurst
+0.12298682284040996	0.8235294117647058	facility	false	in=Lounge22 l=about l=the l=new r=Powered r=by r=CORT
+0.12280701754385964	0.8235294117647058	facility	false	in=Bush l=on l=extending l=the r=tax r=cuts r=slips
+0.12262773722627737	0.8235294117647058	facility	false	in=TAYLOR l=! l=~HAPPY l=B-DAY r=!!! r=LUVZ r=YA~
+0.1239067055393586	0.8333333333333334	facility	true	in=lhs l=will l=be l=more r=games r=then r=i
+0.12372634643377002	0.8333333333333334	facility	false	in=Figgy in=Soda l=tasting l=today l=: r=w/ r=a r=fresh
+0.12354651162790697	0.8333333333333334	facility	false	in=Renee l=: l=Shared l=by r=Or r=as r=I'd
+0.12336719883889695	0.8333333333333334	facility	false	in=aintree l=mine l=in l=bbt r=today r=. r=Played
+0.1246376811594203	0.8431372549019608	facility	true	in=Rotary in=Club l=volunteering l=for l=the r=at r=the r=PoMo
+0.12445730824891461	0.8431372549019608	facility	false	in=Murkowski l=goes l=down l=, r=goes r=write-in r=.
+0.12427745664739884	0.8431372549019608	facility	false	in=Ustream l=back l=live l=on r=later r=tonight
+0.1240981240981241	0.8431372549019608	facility	false	in=Ustream l=back l=live l=on r=later r=tonight
+0.1239193083573487	0.8431372549019608	facility	false	in=Ustream l=back l=live l=on r=later r=tonight
+0.1237410071942446	0.8431372549019608	facility	false	in=Ustream l=back l=live l=on r=later r=tonight
+0.1235632183908046	0.8431372549019608	facility	false	in=Ustream l=back l=live l=on r=later r=tonight
+0.12338593974175036	0.8431372549019608	facility	false	in=V-I-K-I-N-G-S l=game l=tonight l=!!!!! r=!!!!!!!
+0.12320916905444126	0.8431372549019608	facility	false	in=Mackenna l=. l=Love l=,
+0.12303290414878398	0.8431372549019608	facility	false	in=the in=Lions l=on l=Vs l=.
+0.12285714285714286	0.8431372549019608	facility	false	in=Keeva l=on l=your l=engagement r=, r=delighted r=for
+0.12268188302425106	0.8431372549019608	facility	false	in=Rocks l=tonight l=. l=Thought r=well r=in r=game
+0.1225071225071225	0.8431372549019608	facility	false	in=Downs l=Keppinger l=sits l=, r=plays r=2B r=,
+0.12233285917496443	0.8431372549019608	facility	false	in=MD l=Float-Ellicott l=City l=, r=Job r=( r=MD
+0.12215909090909091	0.8431372549019608	facility	false	in=JeA in=Unnie l=@Jeaworld l=Happy l=Birthday r=Have r=lots r=of
+0.12340425531914893	0.8529411764705882	facility	true	in=Good in=Day in=Sunshine r=http://bit.ly/cK4PB8 r=is r=available
+0.12322946175637393	0.8529411764705882	facility	false	in=JL l=I l=hit l=that r=joint r=when r=it
+0.12305516265912306	0.8529411764705882	facility	false	in=snoop l=@SnoopDogg l=hey r=my r=wife r=Cath
+0.1228813559322034	0.8529411764705882	facility	false	in=Fenway l=1st l=trip l=to r=tonight r=http://twitpic.com/2pdwoo
+0.1227080394922426	0.8529411764705882	facility	false	in=On in=My in=Own in=Time r=- r=Gym r=Class
+0.12253521126760564	0.8529411764705882	facility	false	in=Gigli l=forgave l=you l=for r=. r=Really r=.
+0.12236286919831224	0.8529411764705882	facility	false	in=Gigli l=forgave l=you l=for r=. r=Really r=.
+0.12219101123595505	0.8529411764705882	facility	false	in=Rimutakas l=, l=Lewis l=,
+0.12201963534361851	0.8529411764705882	facility	false	in=The in=Bay l=to l=rain l=in r=on r=Sunday r=...
+0.12184873949579832	0.8529411764705882	facility	false	in=MIAMI l=SUENALO l=! l=FROM r=W/ r=SHAKEMODE r=AND
+0.12167832167832168	0.8529411764705882	facility	false	in=Cowboy in=Mouth l=she l='s l=missing r=tonight r=:(
+0.12290502793296089	0.8627450980392157	facility	true	in=Secrets l=could l=get l=in r=free r=on r=Thursday
+0.12273361227336123	0.8627450980392157	facility	false	in=Eagles l=Vista l=del l=Lago r=, r=well r=some
+0.12256267409470752	0.8627450980392157	facility	false	in=Manchester l=I l=position l=to r=tomorrow r=on r=BA
+0.12239221140472879	0.8627450980392157	facility	false	in=lush l=goblins l=nose l=,
+0.12222222222222222	0.8627450980392157	facility	false	in=*Gwen in=Stefani l=niiiiiiiiiight l=;) l=. r=voice* r=:] r=.
+0.12205270457697642	0.8627450980392157	facility	false	in=Edmonton in=Journal l=Tim l=Yip l=, r=September r=17 r=,
+0.12188365650969529	0.8627450980392157	facility	false	in=ADHD l=Aggressive l=Kids l=With r=May r=Not r=Need
+0.12171507607192254	0.8627450980392157	facility	false	in=trey l=been l=listenin l=to r=alllll r=week r=...
+0.12154696132596685	0.8627450980392157	facility	false	in=Delirious l=With l=You l=- r=? r=[ r=World
+0.12137931034482759	0.8627450980392157	facility	false	in=Korean in=War r=spy r=rivalries r=persist
+0.12121212121212122	0.8627450980392157	facility	false	in=~Wayne in=Dyer l=define l=yourself l=.
+0.12104539202200826	0.8627450980392157	facility	false	in=Milford in=Rd l=expected l=today l=on r=, r=Lindis r=Pass
+0.12087912087912088	0.8627450980392157	facility	false	in=twitpic l=these l=days l=... r=ur r=new r=haircut
+0.12071330589849108	0.8627450980392157	facility	false	in=Claire l=this l=girl l=, r=. r=( r=cont
+0.12054794520547946	0.8627450980392157	facility	false	in=AT&amp;T l=#jobs l=#careers l=#Greenville r=Full r=Time r=Retail
+0.12175102599179206	0.8725490196078431	facility	true	in=CAFE in=NINE r=TONIGHT r=AT r=11
+0.12158469945355191	0.8725490196078431	facility	false	in=Pakistan l=six l=wickets l=as r=beat r=England r=:
+0.12141882673942701	0.8725490196078431	facility	false	in=Sports in=Day l=tomorrow l=for l=@cbc r=in r=Canada r=#yyc
+0.12125340599455041	0.8725490196078431	facility	false	in=Packer l=it l=during l=a r=game r=.
+0.12108843537414966	0.8725490196078431	facility	false	in=We in=All in=Are in=Dancing l=-- l=Yoav l=" r=" r=( r=Copenhagen
+0.12092391304347826	0.8725490196078431	facility	false	in=30+ in=Beautiful in=Ladies l=Hosted l=By l=: r=! r=[ r=PLz
+0.12075983717774763	0.8725490196078431	facility	false	in=America l=Juniper l=routers l=for r='s r=largest r=wireless
+0.12059620596205962	0.8725490196078431	facility	false	in=Cisco l=and l=eBGP l=on r=AND r=Juniper r=routers
+0.12043301759133965	0.8725490196078431	facility	false	in=facebook l=writing l=it l=on r=.....
+0.12027027027027028	0.8725490196078431	facility	false	in=DJ in=STRATEGY l=HAVE l=YOU l=HEARD r=IS r=NOW r=AT
+0.12010796221322537	0.8725490196078431	facility	false	in=Jonas in=Bros l=ticket l=for l=the r=this r=Sunday r=,
+0.11994609164420485	0.8725490196078431	facility	false	in=Chicago in=Blackhawks r=general r=manager r=Stan
+0.11978465679676985	0.8725490196078431	facility	false	in=UK l=moving l=to l=the r=in r=approx r=12
+0.1196236559139785	0.8725490196078431	facility	false	in=Edward l='s l=John l=and r=... r=there r=Tweets
+0.12080536912751678	0.8823529411764706	facility	true	in=Futoosh l=I l=went l=to r=, r=the r=owner
+0.12064343163538874	0.8823529411764706	facility	false	in=FDA l=RT l=@DrJennyK l=: r=Suggests r=#Afib r=Drug
+0.12048192771084337	0.8823529411764706	facility	false	in=Lucid in=Dementia r=Playing r=in r=Austin
+0.12032085561497326	0.8823529411764706	facility	false	in=Pope l=RT l=@MarioBB9 l=: r=says r=atheists r=pick
+0.12016021361815754	0.8823529411764706	facility	false	in=Pope l=RT l=@davehodg l=: r=says r=atheists r=pick
+0.12	0.8823529411764706	facility	false	in=Pope l=RT l=@davehodg l=: r=says r=atheists r=pick
+0.11984021304926765	0.8823529411764706	facility	false	in=Ellen l=@TheEllenShow l=#AskEllen l=Hi r=. r=Can r=you
+0.1196808510638298	0.8823529411764706	facility	false	in=Jacquelin l=, l=a l=pregnant r=... r=http://yhoo.it/9VAD4A
+0.11952191235059761	0.8823529411764706	facility	false	in=Jacquelin l=, l=a l=pregnant r=... r=http://yhoo.it/9VAD4A
+0.11936339522546419	0.8823529411764706	facility	false	in=RACHELLE l=! l=urgh l=. r=im r=gonnauh r=kill
+0.11920529801324503	0.8823529411764706	facility	false	in=RACHELLE l=! l=urgh l=. r=im r=gonnauh r=kill
+0.11904761904761904	0.8823529411764706	facility	false	in=Kirkwood l=the l=corner l=, r=&amp; r=... r=http://fb.me/I6SZ52nW
+0.11889035667107001	0.8823529411764706	facility	false	in=facebook l=a l=request l=on r=... r=we r=hadnt
+0.12005277044854881	0.8921568627450981	facility	true	in=Holyroodhouse l=his l=cigarettes l=at r=. r=One r='s
+0.11989459815546773	0.8921568627450981	facility	false	in=Pedersen r=: r=Hangeland r=won't
+0.11973684210526316	0.8921568627450981	facility	false	in=Pepsi l=http://bit.ly/aTTQYq l=When r=to r=ring r=usually
+0.11957950065703023	0.8921568627450981	facility	false	in=K-On l=four l=episodes l=of r=for r=the r=first
+0.1194225721784777	0.8921568627450981	facility	false	in=Facebook l=" l=us l=on r=, r=get r=entered
+0.11926605504587157	0.8921568627450981	facility	false	in=Software in=Freedom in=Day l=! l=Today l='s r=. r=Join r=us
+0.11910994764397906	0.8921568627450981	facility	false	in=Daren in=Powell l=Indies l=fast l=bowler r=a r=year r=befo
+0.11895424836601307	0.8921568627450981	facility	false	in=Hyna l=@karensuluay r=the r=Brad r=paisley
+0.11879895561357702	0.8921568627450981	facility	false	in=JENNIFERS in=BODY l=I l=CAN l=WATCH r=:O r=I r=KNOW
+0.11864406779661017	0.8921568627450981	facility	false	in=The in=Sea in=Inside l=" l=( l=" r=" r=) r=.
+0.11848958333333333	0.8921568627450981	facility	false	in=sega in=genesis l=super l=nintendo r=, r=when r=i
+0.11833550065019506	0.8921568627450981	facility	false	in=Barbados l=and l=fly l=to r=on r=Sunday
+0.11818181818181818	0.8921568627450981	facility	false	in=Techland l=Alternative l=? l=- r=- r=TIME r=.
+0.11802853437094682	0.8921568627450981	facility	false	in=MJ l=too l=much l=. r=still r=had r=it
+0.11787564766839378	0.8921568627450981	facility	false	in=Desperado l=Stylez l=&quot; l=A.K.A. r=Birthday r=Bash r=!
+0.11772315653298836	0.8921568627450981	facility	false	in=Lindsay in=Lohan l=Friday l=afternoon l=that r=... r=http://bit.ly/aKHoZc
+0.11757105943152454	0.8921568627450981	facility	false	in=MD l=MD l=Job l=( r=) r=http://bit.ly/daNH6v r=#Job
+0.11741935483870967	0.8921568627450981	facility	false	in=tanya l=and l=steve l=and r=will r=be r=round
+0.1172680412371134	0.8921568627450981	facility	false	in=A&amp;E l=;) l=I l=hate r=&lt; r=shudders r=&gt;
+0.11711711711711711	0.8921568627450981	facility	false	in=MRB in=@ in=61 in=Roadhouse in=BBQ l='Come l=to l=" r=" r=Sunday r=,
+0.11696658097686376	0.8921568627450981	facility	false	in=Hurricane in=Earl l=@PolarBeverages l=: l=Before r=comes r=, r=stock
+0.11681643132220795	0.8921568627450981	facility	false	in=Nostalgia l=copy l=of l=" r=" r=for r=years
+0.11794871794871795	0.9019607843137255	facility	true	in=Tipitina l=Find l=us l=at r='s r=tonight r=and
+0.117797695262484	0.9019607843137255	facility	false	in=Rainy in=Days l=filming l=Chris l=" r=" r=video r=.
+0.11764705882352941	0.9019607843137255	facility	false	in=Spain l=of l=Aragon l=, r=, r=day r=one
+0.11749680715197956	0.9019607843137255	facility	false	in=GA l=back l=home l=to r=. r=It r=sucks
+0.11734693877551021	0.9019607843137255	facility	false	in=Stakes in=Day l=the l=punt l=until r=... r=#sadbuttrue
+0.11719745222929936	0.9019607843137255	facility	false	in=NRSC l=Probably l=not l=the r='s r=best-ever r=week
+0.11704834605597965	0.9019607843137255	facility	false	in=Awakening in=Festival l=coming l=to l=the r=tonight r=? r=I'm
+0.11689961880559085	0.9019607843137255	facility	false	in=-Coco in=Chanel l=a l=Weir l=...: r=" r=I r=design
+0.116751269035533	0.9019607843137255	facility	false	in=Private in=Practice l=, l=but l=is r=coming r=back r=this
+0.11660329531051965	0.9019607843137255	facility	false	in=Eagles l=Alexei l=:: l=Philadelphia r=: r=Donovan r=McNabb
+0.11645569620253164	0.9019607843137255	facility	false	in=God l=... l=what l=do r=say r=day r="
+0.11630847029077118	0.9019607843137255	facility	false	in=God l=... l=what l=do r=say r=day r="
+0.11616161616161616	0.9019607843137255	facility	false	in=Jackie r=joins r=Twitter r=50
+0.11601513240857503	0.9019607843137255	facility	false	in=belles in=mansion r=4 r=bday r=dinner
+0.11586901763224182	0.9019607843137255	facility	false	in=Rock in=Band l=if l=you l=like r=or r=Guitar r=Hero
+0.11572327044025157	0.9019607843137255	facility	false	in=Mothers in=Day l=:) l=Surrounded l=by r=and r=Dreading r=It
+0.11557788944723618	0.9019607843137255	facility	false	in=ipod l=got l=cody l='s r=in r=the r=mail
+0.11543287327478043	0.9019607843137255	facility	false	in=iCarly l=, l=spencer l=from r=was r=Crazy r=Steve
+0.11528822055137844	0.9019607843137255	facility	false	in=Yom in=Kippur l=@MARLONLWAYANS l=: l=Happy r=to r=all r=my
+0.11514392991239049	0.9019607843137255	facility	false	in=yakuza l=you l=see l=the r=vs r=zombies r=....
+0.115	0.9019607843137255	facility	false	in=Hendrix r=died r=40 r=years
+0.11485642946317104	0.9019607843137255	facility	false	in=Kayak in=Magazine l=George l=Hitchcock l=, r=Founder r=, r=Dies
+0.11471321695760599	0.9019607843137255	facility	false	in=11 in=Bantam in=Draft l=Pick l=in l=' r=. r=7 r=20-year
+0.11457036114570361	0.9019607843137255	facility	false	in=sirius l=7- l=9pm l=eastern r=211 r=. r=Xm
+0.11442786069651742	0.9019607843137255	facility	false	in=#Astros r=lineup r=for r=tonight
+0.115527950310559	0.9117647058823529	facility	true	in=U.S. in=Capitol in=building l=love l=seeing l=the r=in r=my r=rearview
+0.11538461538461539	0.9117647058823529	facility	false	in=Willingham l=meeting l=, l=where r=probe r=took r=a
+0.11524163568773234	0.9117647058823529	facility	false	in=Sunny in=Day in=Real in=Estate l=Up l=Kids l=, r=, r=and r=Cap'n
+0.1150990099009901	0.9117647058823529	facility	false	in=EVA in=MENDES l=a l=pic l=of r=! r=Didn't r=know
+0.11495673671199011	0.9117647058823529	facility	false	in=30stm l=been l=to l=13 r=concerts r=now r=and
+0.11481481481481481	0.9117647058823529	facility	false	in=EBL l=started l=tonight l=, r=tmrw r=, r=Euroleague
+0.11467324290998766	0.9117647058823529	facility	false	in=Pringles l=in l=Chicago l=. r=, r=baby r=!
+0.1145320197044335	0.9117647058823529	facility	false	in=Haines l=, l=Albin l=, r=and r=Burrow r=each
+0.11439114391143912	0.9117647058823529	facility	false	in=Sour in=Patch in=kids l=for l=the l=most r=eaten r=by r=an
+0.11425061425061425	0.9117647058823529	facility	false	in=Leroy in=Jenkins in=Day l=people l=need l=a r=. r=We r=need
+0.11533742331288344	0.9215686274509803	facility	true	in=ASU in=Step in=Gallery l=, l=artists l=! r=wants r=your r="
+0.11519607843137254	0.9215686274509803	facility	false	in=Joaquin in=Phoenix l=Is r=Our r=Modern r=Day
+0.11505507955936352	0.9215686274509803	facility	false	in=Joaquin in=Phoenix l=Is r=Our r=Modern r=Day
+0.11491442542787286	0.9215686274509803	facility	false	in=TMZ l=a l=story l=on r=tonight r=. r=Gulp
+0.11477411477411477	0.9215686274509803	facility	false	in=Kent l=and l=back l=to r=!'
+0.11463414634146342	0.9215686274509803	facility	false	in=Facebook l=Social l=networking l=site r=officially r=has r=500
+0.11449451887941535	0.9215686274509803	facility	false	in=Testing in=Tomorrow l=-- l=Water l=by r=http://youtu.be/htAM7lgcelw?a
+0.11435523114355231	0.9215686274509803	facility	false	in=Lois l=to l=them l=, r=was r=always r=&quot;
+0.11421628189550426	0.9215686274509803	facility	false	in=Mark in=14:30 l=in l=some l=translations r=says r=: r="...
+0.11407766990291263	0.9215686274509803	facility	false	in=Yom in=Kippur l=who l=is l=celebrating r=have r=an r=easy
+0.11393939393939394	0.9215686274509803	facility	false	in=Lohan r=faces r=more r=jail
+0.11380145278450363	0.9215686274509803	facility	false	in=America l=it l='s l=time r=was r=run r=like
+0.11366384522370013	0.9215686274509803	facility	false	in=JPN l=day l=:) l=from r=.
+0.11352657004830918	0.9215686274509803	facility	false	in=Eyeopener l=RT l=@robmoysey r=vs r=. r=Ryerson
+0.11338962605548854	0.9215686274509803	facility	false	in=Eyeopener l=RT l=@robmoysey r=vs r=. r=Ryerson
+0.11325301204819277	0.9215686274509803	facility	false	in=The in=DeAndre in=Way l=. l=com l=- r=in r=stores r=Nov
+0.11311672683513839	0.9215686274509803	facility	false	in=The in=DeAndre in=Way l=. l=com l=- r=in r=stores r=Nov
+0.11298076923076923	0.9215686274509803	facility	false	in=Treasury l=. l=No l=. r=deprived r=of r=$4T
+0.11284513805522209	0.9215686274509803	facility	false	in=Frank in=Solich l=Ohio l=head l=coach r=says r=Ohio r=State
+0.11270983213429256	0.9215686274509803	facility	false	in=facebook l=their l=iPhones l=on r=today r=, r=so
+0.1125748502994012	0.9215686274509803	facility	false	in=VMA l=watching l=the r=pre-show r=again r=lol
+0.11244019138755981	0.9215686274509803	facility	false	in=TEACHER'S in=DAY in=2 l=2 l=! l=HAPPY r=ME r=!!! r=YEAAAAHHHH
+0.11230585424133811	0.9215686274509803	facility	false	in=Agora l=Awarded l=movie l=" r=" r=by r=Spanish
+0.11217183770883055	0.9215686274509803	facility	false	in=Business in=Alliance r=will r=save r=you
+0.11203814064362336	0.9215686274509803	facility	false	in=Adam in=Beyer r=: r=Swedish r=Techno
+0.11190476190476191	0.9215686274509803	facility	false	in=Allah l=&amp; l=blessings l=of r=be r=upon r=him
+0.1117717003567182	0.9215686274509803	facility	false	in=MN l=Municipal l=Airport l=, r=Winds r=are r=Calm
+0.11163895486935867	0.9215686274509803	facility	false	in=Israel r=grinds r=to r=a
+0.11150652431791222	0.9215686274509803	facility	false	in=Andy in=Kaufman l=Our l=Modern l=Day r=?: r=... r=the
+0.11137440758293839	0.9215686274509803	facility	false	in=Andy in=Kaufman l=Our l=Modern l=Day r=?: r=... r=the
+0.11124260355029586	0.9215686274509803	facility	false	in=twitter l=mad l=I'm l=on r=!
+0.11229314420803782	0.9313725490196079	facility	true	in=Dicks l=: l=going l=to r=tonight r=.
+0.11216056670602124	0.9313725490196079	facility	false	in=Reivers l=afternoon l=! l=Go r=!
+0.11202830188679246	0.9313725490196079	facility	false	in=Patchogue) l=West l=Ave l=, r=. r=http://4sq.com/aX6N26
+0.11189634864546526	0.9313725490196079	facility	false	in=Pope r=says r=religion r='
+0.11176470588235295	0.9313725490196079	facility	false	in=Nex-Tech in=Wireless l=teh l=Nex-Tech l=and r=tent r=at r=TailGreat
+0.11163337250293771	0.9313725490196079	facility	false	in=Jerraud in=Powers l=Second-year l=CBs r=and r=Jacob r=Lacey
+0.11150234741784038	0.9313725490196079	facility	false	in=Teddy in=P l=, l=he l=does r=proud r=on r=Wake
+0.11137162954279015	0.9313725490196079	facility	false	in=diggy l=@diggy_simmons l=#diggyfollows50 r=should r=follow r=me
+0.11124121779859485	0.9313725490196079	facility	false	in=Wonder in=Woman l=@whitneytweets l=@matthewlawton l=and r=!
+0.1111111111111111	0.9313725490196079	facility	false	in=Gwen in=Stefani l=la l=Renta l=, r=&amp; r=a r=Weir
+0.11098130841121495	0.9313725490196079	facility	false	in=Justice in=Breyer r='s r=About r=Face
+0.11085180863477247	0.9313725490196079	facility	false	in=Marvin in=Gaye in=Day l=#BlackHoliday
+0.11072261072261072	0.9313725490196079	facility	false	in=iTunes l=be l=#1 l=on r=.
+0.11059371362048893	0.9313725490196079	facility	false	in=Coffee l=Kahlua l=&lt; r=over r=looking r=the
+0.11046511627906977	0.9313725490196079	facility	false	in=Christine in=O'Donnell l=masturbators l=marched l=against r=today r=http://bit.ly/9nTWQw r=Seriously
+0.11033681765389082	0.9313725490196079	facility	false	in=JUTHTIN in=BEAVERRRR l=one l=time l=! r=!!!!
+0.11020881670533643	0.9313725490196079	facility	false	in=COP l=Check l=out l=the r=tailgate r=... r=65
+0.1100811123986095	0.9313725490196079	facility	false	in=Hyper in=V l=problem l=moving l=a r=guest r=from r=a
+0.1099537037037037	0.9313725490196079	facility	false	in=Yom in=Kippur l=: l=It l='s r=eve r=, r=so
+0.10982658959537572	0.9313725490196079	facility	false	in=Greenville l=property l=tomorrow l=in r=, r=OH
+0.10969976905311778	0.9313725490196079	facility	false	in=Desert in=Rd l=No l=warnings l=for r=, r=Lewis r=,
+0.10957324106113034	0.9313725490196079	facility	false	in=Vanquish l=Platinum l=Games l=' r=for r=PS3 r=,
+0.10944700460829493	0.9313725490196079	facility	false	in=Manning in=Bowl in=I l=remember l=much l=about r=. r=Both r=were
+0.1093210586881473	0.9313725490196079	facility	false	in=Ultimate in=Magic l=up l=for l=the r=playtest r=that r=starts
+0.10919540229885058	0.9313725490196079	facility	false	in=facebook l=havent l=been l=on r=for r=a r=day
+0.10907003444316878	0.9313725490196079	facility	false	in=CANADA l=, l=Ontario l=, r=... r=http://bit.ly/aOe78A r=#jobs
+0.10894495412844037	0.9313725490196079	facility	false	in=UFlex l=Institutional l=buying l=lifts r=30% r=in r=a
+0.10882016036655212	0.9313725490196079	facility	false	in=-Roald in=Dahl l=reverse l=it l=.
+0.10869565217391304	0.9313725490196079	facility	false	in=facebook l=put l=them l=on r=now r=!!
+0.10857142857142857	0.9313725490196079	facility	false	in=Twitter l=Personal r=is r=now r=ago
+0.10844748858447488	0.9313725490196079	facility	false	in=Halo in=Reach r=was r=a r=bit
+0.10832383124287344	0.9313725490196079	facility	false	in=CCU r=exercise r=science r=program
+0.1082004555808656	0.9313725490196079	facility	false	in=Camelbak l=Bite l=Valve l=by r=93 r=days r=in
+0.1080773606370876	0.9313725490196079	facility	false	in=NYC l=flight l=back l=to
+0.10795454545454546	0.9313725490196079	facility	false	in=Lindis in=Pass l=Milford l=Rd l=, r=and r=Arthurs r=Pass
+0.10783200908059024	0.9313725490196079	facility	false	in=BB in=Bold l=. l=&lt; l=3 r=, r=here r=I
+0.10770975056689343	0.9313725490196079	facility	false	in=Eduardo in=Surita l=- l=1 l=) r=: r=your r=a
+0.10758776896942242	0.9313725490196079	facility	false	in=bugatti in=V l=be l=to l=drive r=for r=a r=day
+0.1074660633484163	0.9313725490196079	facility	false	in=Lindsay in=Lohan r=allegedly r=failed r=her
+0.10734463276836158	0.9313725490196079	facility	false	in=Lindsay in=Lohan r=allegedly r=failed r=her
+0.1072234762979684	0.9313725490196079	facility	false	in=Portland l=a l=show l=in r=, r=OR r=at
+0.10710259301014656	0.9313725490196079	facility	false	in=eBGP l=configuring l=iBGP l=and r=on r=Cisco r=AND
+0.10698198198198199	0.9313725490196079	facility	false	in=Jackie l=Yahoo l=: r=joins r=Twitter r=50
+0.10686164229471316	0.9313725490196079	facility	false	in=Jackie l=Yahoo l=: r=joins r=Twitter r=50
+0.10674157303370786	0.9313725490196079	facility	false	in=WB in=WILDCATS l=excited l=!! l=GOO r=!
+0.10662177328843996	0.9313725490196079	facility	false	in=Half in=baked r=, r=next r=how
+0.10650224215246637	0.9313725490196079	facility	false	in=iPad l=RT l=@TechZader l=: r=Refresh r=Due r=in
+0.10638297872340426	0.9313725490196079	facility	false	in=Belfast l=you l=are l=in r=this r=weekend r=go
+0.10626398210290827	0.9313725490196079	facility	false	in=Jermaine in=Dupri l=Mannie l=Fresh l=and r=fa r=da r=after
+0.10614525139664804	0.9313725490196079	facility	false	in=SB1070 l=spoke l=out l=against r=during r=the r=show
+0.10602678571428571	0.9313725490196079	facility	false	in=SB1070 l=spoke l=out l=against r=during r=the r=show
+0.10590858416945373	0.9313725490196079	facility	false	in=Deep in=Sea in=Intervention l=17,201 l=0 l=-- r=has r=opened r=...
+0.10579064587973273	0.9313725490196079	facility	false	in=GA l=Columbus l=, r=: r=@TimmNintey146 r=and
+0.10567296996662959	0.9313725490196079	facility	false	in=Blair l=RT l=@AlJahom l=: r=: r=" r=I'm
+0.10555555555555556	0.9313725490196079	facility	false	in=New in=Jersey l=A l=week l=in r=, r=of r=all
+0.10543840177580466	0.9313725490196079	facility	false	in=Pinky l=: l=Y l=does r=have r=a r=music
+0.10532150776053215	0.9313725490196079	facility	false	in=Mandy l=@mandyjiroux r=when r=you r=and
+0.10520487264673312	0.9313725490196079	facility	false	in=Lancers l=saying l=" l=Go r=!!" r=teehee r=.
+0.10508849557522124	0.9313725490196079	facility	false	in=Lindsay in=Lohan l=RT l=@TMZ l=: r=tested r=positive r=for
+0.10497237569060773	0.9313725490196079	facility	false	in=server in=2008 in=R2 l=server l=2008 l=to r=host r=? r=Having
+0.10485651214128035	0.9313725490196079	facility	false	in=Tdot l=TIFF l=is l=in r=, r=ALWAYS r=have
+0.10474090407938258	0.9313725490196079	facility	false	in=Demos l=hr l=special l=of r=@ r=3AM r=on
+0.10462555066079295	0.9313725490196079	facility	false	in=office l=, l=antivirus l=and r=when r=i r=buy
+0.10451045104510451	0.9313725490196079	facility	false	in=Lingerie in=football in=league r=come r=on r=tonight
+0.1043956043956044	0.9313725490196079	facility	false	in=Anna in=Wintor l=aunt l=worked l=for r=in r=NY r=.
+0.10428100987925357	0.9313725490196079	facility	false	in=Paco l=a l=time l=with r=( r=Thats r=my
+0.10416666666666667	0.9313725490196079	facility	false	in=Eastern in=Bloc r=25th r=b'day r=party
+0.10405257393209201	0.9313725490196079	facility	false	in=bieber l=sure l=almost l=all r=fans r=have r=it
+0.10393873085339168	0.9313725490196079	facility	false	in=Miley in=Cyrus l=Hilton l=, l=now r=! r=Cops r=responded
+0.10382513661202186	0.9313725490196079	facility	false	in=Eagles l=Will l=Start l=for r=on r=Sunday r=http://t.co/UqXcSXT
+0.1037117903930131	0.9313725490196079	facility	false	in=London l='s l=getting l=across r=that r='s r=the
+0.10359869138495092	0.9313725490196079	facility	false	in=Patricia in=M l=#Pathologist-Childrens l=Rehab l=and r=#Referral/#Auth r=#Spec-#Womens r=#Care
+0.10348583877995643	0.9313725490196079	facility	false	in=iTunes l=Instant l=: l=Search r=at r=high r=speed
+0.10337323177366703	0.9313725490196079	facility	false	in=vancouver l=have l=fun l=in r=tonight r=!
+0.10326086956521739	0.9313725490196079	facility	false	in=Soulja in=Boy l=RT l=@johan0394 l=: r=| r=TheDeAndreWay r=.
+0.10314875135722042	0.9313725490196079	facility	false	in=Kristen r=is r=MY r=LIFE
+0.10303687635574837	0.9313725490196079	facility	false	in=NY l=Arthur l=Airport l=, r=Winds r=are r=North
+0.10292524377031419	0.9313725490196079	facility	false	in=twitter l=i l=was l=on r=violating r=some r=girl
+0.10281385281385282	0.9313725490196079	facility	false	in=miami in=heat l=any l=new l=found r=fans r=...
+0.10270270270270271	0.9313725490196079	facility	false	in=Margaret in=Hamburg l=, l=FDA l=Commissioner r=present r=... r=http://bit.ly/9i1AEg
+0.10259179265658748	0.9313725490196079	facility	false	in=Danger in=Days in=: in=The in=True in=Lives in=Of in=The in=Fabulous in=Killjoys l=@amandacarolinne l=: l=" r="'
+0.10248112189859762	0.9313725490196079	facility	false	in=VMAs l=watching l=the r=Eminem r=is r=BeAsT
+0.10237068965517242	0.9313725490196079	facility	false	in=Danger in=Days in=: in=True in=Lives in=of in=The in=Fabulous in=Killjoys l=RT l=@josielovesmcr l=: r=#mychemicalromance
+0.10226049515608181	0.9313725490196079	facility	false	in=Christmas l=is l=right l=, r=is r=only r=98
+0.10215053763440861	0.9313725490196079	facility	false	in=Fabi l=&lt; l=3 l=and r=. r='ll r=have
+0.10204081632653061	0.9313725490196079	facility	false	in=Mr in=. in=Van l=RT l=@ArtVanFurniture l=: r=sure r=is r=busy
+0.10193133047210301	0.9313725490196079	facility	false	in=iPod l=, l=flipped l=the r=over r=to r=shuffle
+0.10182207931404073	0.9313725490196079	facility	false	in=anna l=wasz l=Fun l=cusz r=Came r=juss r=for
+0.10171306209850108	0.9313725490196079	facility	false	in=Phil l=driving l=away l=to r=. r=Tasty r=dinner
+0.10160427807486631	0.9313725490196079	facility	false	in=Phil l=driving l=away l=to r=. r=Tasty r=dinner
+0.1014957264957265	0.9313725490196079	facility	false	in=Spirit in=Week l=Next l=week l=is r=at r=school r=...
+0.10138740661686232	0.9313725490196079	facility	false	in=BBL r=started r=tonight r=,
+0.10127931769722814	0.9313725490196079	facility	false	in=-Rumi l=make l=me l=everything
+0.10117145899893504	0.9313725490196079	facility	false	in=Criminal in=Minds l=season l=six l=of r=! r=Can't r=wait
+0.10106382978723404	0.9313725490196079	facility	false	in=#StarWars in=#TheCloneWars l=season l=premiere l=of r=!!
+0.10095642933049948	0.9313725490196079	facility	false	in=iBGP l='ve l=been l=configuring r=and r=eBGP r=on
+0.10084925690021232	0.9313725490196079	facility	false	in=True in=Blood l=books l=of l=the r=novels r=in r=8
+0.1007423117709438	0.9313725490196079	facility	false	in=Yli l=almost l=3 l=. r=gets r=out r=in
+0.10063559322033898	0.9313725490196079	facility	false	in=NYC l=A l=look l=at r='s r=Electric r=Lady
+0.10052910052910052	0.9313725490196079	facility	false	in=Hong in=Kong l=| l=' l=s r=twentieth r=century r=Chinese
+0.10042283298097252	0.9313725490196079	facility	false	in=bc l=haven't l=driven l=to r=in r=years r=,
+0.1003167898627244	0.9313725490196079	facility	false	in=miami l=@hannibal_flow l=I l=got r=pics r=for r=days
+0.10021097046413502	0.9313725490196079	facility	false	in=Friday in=Night in=Lights l=Season l=3 l=of r=... r=It r=seems
+0.10010537407797682	0.9313725490196079	facility	false	in=Coke l=, l=drinking l=a r=. r=MLIA r=#Quotealicious
+0.1	0.9313725490196079	facility	false	in=Coke l=, l=drinking l=a r=. r=MLIA r=#Quotealicious
+0.09989484752891693	0.9313725490196079	facility	false	in=Crooked l=@TheWon_A r=is r=in r=town
+0.09978991596638656	0.9313725490196079	facility	false	in=AUS l=one l=Tuesday l=in r=and r=the r=one
+0.09968520461699895	0.9313725490196079	facility	false	in=Euroleague l=EBL l=tmrw l=, r=qualifiers r=tues r=but
+0.09958071278825996	0.9313725490196079	facility	false	in=Mystery in=Jets l=Marina&amp;Diamonds l=@ElReyTheatre l=, r=@TheTroubadour r=( r=via
+0.09947643979057591	0.9313725490196079	facility	false	in=Big in=Sam l=: l=I l=think r=was r=misquoted r=when
+0.09937238493723849	0.9313725490196079	facility	false	in=when in=im in=gone l=#nowplaying r=eminem r=:)
+0.09926854754440961	0.9313725490196079	facility	false	in=Water l=YouTube l=video l=-- r=by r=Testing r=Tomorrow
+0.09916492693110647	0.9313725490196079	facility	false	in=birmingham l=pope l=visit l=to r=stuff r=out r=.....
+0.09906152241918666	0.9313725490196079	facility	false	in=iOS l=apps l=from l=my r=devices r=!
+0.09895833333333333	0.9313725490196079	facility	false	in=Greg l=Roy l='s l=and r='s r=old r=band
+0.09885535900104059	0.9313725490196079	facility	false	in=Travis in=Toomey l=Blades l=trade r=to r=Seattle r=for
+0.09875259875259876	0.9313725490196079	facility	false	in=Christmas l=RT l=@AllTeensThings l=: r=was r=so r=much
+0.09865005192107996	0.9313725490196079	facility	false	in=USM r=get r=ready r=yours
+0.0995850622406639	0.9411764705882353	facility	true	in=USM r=get r=ready r=yours
+0.09948186528497409	0.9411764705882353	facility	false	in=Mariel in=Concepcion l=Tour l=: l=by r=, r=NY r=|
+0.09937888198757763	0.9411764705882353	facility	false	in=macdonalds l=before l=she l=discovered
+0.09927611168562564	0.9411764705882353	facility	false	in=VT l=I'd l=move l=to r=and r=buy r=some
+0.09917355371900827	0.9411764705882353	facility	false	in=richmond l=he l=goes l=to r=??
+0.09907120743034056	0.9411764705882353	facility	false	in=Minneapolis l=of l=Talk l=- r=( r=First r=Avenue
+0.09896907216494845	0.9411764705882353	facility	false	in=Josh l=Good l=man l=that r=.
+0.09886714727085479	0.9411764705882353	facility	false	in=Twitter l=to l=make l=a r=account r=? r=Love
+0.09876543209876543	0.9411764705882353	facility	false	in=PS3 l=' l=Vanquish l=for r=, r=Xbox r=360
+0.0986639260020555	0.9411764705882353	facility	false	in=Ontario l=: l=Toronto l=, r=, r=CANADA r=...
+0.09856262833675565	0.9411764705882353	facility	false	in=Forex l=#forex l=#fx l=: r=Articles r=for r=the
+0.09846153846153846	0.9411764705882353	facility	false	in=Treasury l=" l=deprive l=" r=of r=$4T r=.
+0.09836065573770492	0.9411764705882353	facility	false	in=Breaking in=Dawn l=' r=' r=Returns r=to
+0.09825997952917093	0.9411764705882353	facility	false	in=Blades r=trade r=Travis r=Toomey
+0.09815950920245399	0.9411764705882353	facility	false	in=Dior l=I l=just l=bought r=mascara r=for r=the
+0.09805924412665985	0.9411764705882353	facility	false	in=Fayette in=County l=bumper l=stickers l=of r=: r=" r=Ever
+0.09795918367346938	0.9411764705882353	facility	false	in=Parking in=Day l=Parking l=Day l=- r=hosted r=by r=the
+0.09785932721712538	0.9411764705882353	facility	false	in=JFK l=a l=kitten l=on r=, r=the r=owners
+0.09775967413441955	0.9411764705882353	facility	false	in=Mickey in=Rourke l=Downey l=Jr l=., r=Direc r=... r=http://bit.ly/a6iCPn
+0.09766022380467955	0.9411764705882353	facility	false	in=Larry in=Bird l=work l=calls l=me r=when r=I r=shoot
+0.0975609756097561	0.9411764705882353	facility	false	in=dj in=finese l=oldskool l=night l=wiith
+0.09746192893401015	0.9411764705882353	facility	false	in=FedEx l=fun l=item l=from r=today r=. r=I'm
+0.0973630831643002	0.9411764705882353	facility	false	in=San in=Jose in=Mercury in=News l=2-year l=extension l=- r=http://dlvr.it/5RcvP r=#ANADucks
+0.0972644376899696	0.9411764705882353	facility	false	in=Hawaii l=!! l=How l='s r=?? r=when r=are
+0.09716599190283401	0.9411764705882353	facility	false	in=al-Mallohi l=BLOGGER l=: l=17-9-2010Tal r=, r=a r=19-year-old
+0.09706774519716886	0.9411764705882353	facility	false	in=Seattle l=Travis l=Toomey l=to r=for r=4th r=Rd
+0.09696969696969697	0.9411764705882353	facility	false	in=Georgia l=&amp; l=N l=. r=. r=Do r=some
+0.09687184661957618	0.9411764705882353	facility	false	in=Around in=The in=World in=Twice l=valley l=want l=" r=" r=written r=by
+0.0967741935483871	0.9411764705882353	facility	false	in=Jersey in=Shore l=to l=watch l=some r=haha
+0.09667673716012085	0.9411764705882353	facility	false	in=Brixton l=make l=tonight l='s r=bashment r=our r=birthday
+0.096579476861167	0.9411764705882353	facility	false	in=Jupiter l=Iwebslog l=. l=com r=making r=closest r=approach
+0.0964824120603015	0.9411764705882353	facility	false	in=Game in=Informer l=misaddressing l=them l=, r=FINALLY r=corrected r=my
+0.0963855421686747	0.9411764705882353	facility	false	in=Clemson l=on l=Saturday l=- r=party r=at r=http://bit.ly/cds8Pd
+0.09628886659979939	0.9411764705882353	facility	false	in=Clemson l=on l=Saturday l=- r=party r=at r=http://bit.ly/cds8Pd
+0.09619238476953908	0.9411764705882353	facility	false	in=Clemson l=on l=Saturday l=- r=party r=at r=http://bit.ly/cds8Pd
+0.0960960960960961	0.9411764705882353	facility	false	in=Cap'n in=Jazz l=Estate l=, l=and r=are r=quite r=possibly
+0.096	0.9411764705882353	facility	false	in=windows l=making l=me l=purchase r=, r=antivirus r=and
+0.0959040959040959	0.9411764705882353	facility	false	in=Twitter l=, l=you're l=on r=. r=Sorry r=!
+0.09580838323353294	0.9411764705882353	facility	false	in=God l=mean l=and l=harsh r=was r=, r=remind
+0.0967098703888335	0.9509803921568627	facility	true	in=Disney in=world l=to l=be l=at r=, r=but r=its
+0.09661354581673307	0.9509803921568627	facility	false	in=Shane l=2 l=boys l=, r=&amp; r=Jonah r=.
+0.09651741293532339	0.9509803921568627	facility	false	in=Mark in=Rowan l=we l=will l=have r=from r=Novel r=Wines
+0.09642147117296222	0.9509803921568627	facility	false	in=Twitter l=about l=the l=new r=. r=com r=today
+0.09632571996027806	0.9509803921568627	facility	false	in=chelsea l=@jaredleto l=i l=saw r=today r=u r=weren't
+0.09623015873015874	0.9509803921568627	facility	false	in=Steve in=&quot; in=Stylez in=&quot; l=8pm l=Hotel l=Elegante r=A.K.A. r=Desperado r=Birthday
+0.09613478691774034	0.9509803921568627	facility	false	in=God l=sleep l=: l=when r=tel r=me r=to
+0.09603960396039604	0.9509803921568627	facility	false	in=Trisha l=a l=meeting l=with r=in r=Paris r=for
+0.09594460929772503	0.9509803921568627	facility	false	in=Irvine l=Costco r=has r=fresh r=sushi
+0.0958498023715415	0.9509803921568627	facility	false	in=Derek l=@FakeDarcy l=: l=No r=, r=when r=guys
+0.09575518262586377	0.9509803921568627	facility	false	in=billy l=tomorrow l=. l=Silly
+0.09566074950690336	0.9509803921568627	facility	false	in=Dayton in=NJ l=. l=Deliver l=on r=tomorrow r=(@ r=Ball
+0.09556650246305419	0.9509803921568627	facility	false	in=Eli l=in l=love l=with
+0.09547244094488189	0.9509803921568627	facility	false	in=twitter l=via l=fb l=and r=. r=Mwahaha r=!
+0.09537856440511308	0.9509803921568627	facility	false	in=Sara in=B in=. l=the l=reminder l=, r=Focusing r=on r=the
+0.09528487229862476	0.9509803921568627	facility	false	in=CJ l=plays l=2B l=, r=bats r=5th r=.
+0.09519136408243375	0.9509803921568627	facility	false	in=Wrawby l=here l=though l=, r=is r=where r=I
+0.09509803921568627	0.9509803921568627	facility	false	in=justthen l=him l=b4 l=n r=about r=kenny r=signing
+0.09500489715964741	0.9509803921568627	facility	false	in=With in=You l=And l=#nowplaying r=- r=Delirious r=?
+0.0949119373776908	0.9509803921568627	facility	false	in=Maunalua l=the l=group r=will r=be r=playing
+0.09481915933528837	0.9509803921568627	facility	false	in=UNC l=pd l=began l=. r=will r=be r=there
+0.0947265625	0.9509803921568627	facility	false	in=Teenage in=Dream l=RT l=@Jasmynebieberr l=: r=is r=on r=the
+0.09463414634146342	0.9509803921568627	facility	false	in=Zune in=HD l=gonna l=buy l=a r=... r=but r=now
+0.09454191033138401	0.9509803921568627	facility	false	in=twitter l=who l=cares l=about
+0.09444985394352483	0.9509803921568627	facility	false	in=Twitter l=following l=us l=on r=and r=get r=a
+0.0943579766536965	0.9509803921568627	facility	false	in=Liam l=lied l=big l=time r=!
+0.09426627793974733	0.9509803921568627	facility	false	in=Accel l=$6 l=Million l=From r=And r=Super r=Angels
+0.0941747572815534	0.9509803921568627	facility	false	in=Accel l=$6 l=Million l=From r=And r=Super r=Angels
+0.09408341416100872	0.9509803921568627	facility	false	in=iPad l=bring l=me l=an r=! r=http://grtpmpkin.com/4fj
+0.0939922480620155	0.9509803921568627	facility	false	in=D.C. l=must l=go l=to r=next r=month r=.
+0.09390125847047434	0.9509803921568627	facility	false	in=The in=DeAndre in=Way l=. l=com l=-- r=in r=stores r=Nov
+0.09381044487427466	0.9509803921568627	facility	false	in=Germano l=Coach r=, r=Albin r=,
+0.09371980676328502	0.9509803921568627	facility	false	in=Tommy in=WIseau l=a l=classic l=. r=is r=a r=genius
+0.09362934362934362	0.9509803921568627	facility	false	in=Lilia l=lol l=Only l=when r=wears r=them r=;)
+0.0935390549662488	0.9509803921568627	facility	false	in=spencer l=your l=age l=, r=from r=iCarly r=was
+0.09344894026974952	0.9509803921568627	facility	false	in=AEG l=at l=time l=. r=just r=wanted r=more
+0.0933589990375361	0.9509803921568627	facility	false	in=Family in=Guy l=YouTube l=video l=-- r=- r=Songs r=Named
+0.09326923076923077	0.9509803921568627	facility	false	in=Costco r=Irvine r=has r=fresh
+0.09317963496637849	0.9509803921568627	facility	false	in=The in=Ride l=peak l=of l=' r=' r=my r=ride
+0.09309021113243762	0.9509803921568627	facility	false	in=emily in=rodriguez l=fckn r=did r=n't r=bring
+0.09300095877277086	0.9509803921568627	facility	false	in=NYC l=of l=early l=80s r=was r=if r=you
+0.09291187739463602	0.9509803921568627	facility	false	in=Anya in=Kamenetz l=Join r=on r=Monday r='s
+0.09282296650717703	0.9509803921568627	facility	false	in=Music in=Jump l=may l=also l=like r=. r=http://appj.mp/AirMusicJump
+0.09273422562141491	0.9509803921568627	facility	false	in=First in=Day in=of in=Autumn in=Networking in=Mixer r=at r=Dick r='s
+0.09264565425023878	0.9509803921568627	facility	false	in=Lindsay in=Lohan l=a l=shot l=for r=tonight r=. r=Maybe
+0.09255725190839695	0.9509803921568627	facility	false	in=gatt in=holly l=chinese l=takeaways l=, r=, r=phil r=collins
+0.09246901811248809	0.9509803921568627	facility	false	in=Lewis l=Desert l=Rd l=, r=, r=Rimutakas
+0.09238095238095238	0.9509803921568627	facility	false	in=Kahlua r=&lt; r=Coffee r=over
+0.0922930542340628	0.9509803921568627	facility	false	in=TIFO in=CREW l=: l=Join l=the r=says r=@Section8Chicago r='s
+0.09220532319391635	0.9509803921568627	facility	false	in=Guitar in=Hero l=Rock l=Band l=or r=, r=you r=may
+0.09211775878442545	0.9509803921568627	facility	false	in=Jason in=Wu l=Fashion l=Week l=: r=read r=more r=http://bit.ly/brsV4V
+0.0920303605313093	0.9509803921568627	facility	false	in=Lancashire l=#cricket r=let r=Powell r=go
+0.09194312796208531	0.9509803921568627	facility	false	in=london in=fashion in=week l=dress l=up l=for r=and r=party r=in
+0.09185606060606061	0.9509803921568627	facility	false	in=london in=fashion in=week l=dress l=up l=for r=and r=party r=in
+0.09176915799432356	0.9509803921568627	facility	false	in=Real l=he l=could l=manage r=. r=What r=he
+0.09168241965973535	0.9509803921568627	facility	false	in=MD r=Jobs r=| r=Executive
+0.09159584513692162	0.9509803921568627	facility	false	in=God l=to l=myself l=and r=. r=Brings r=peace
+0.09150943396226414	0.9509803921568627	facility	false	in=Caliman l=for l=jazz l=great r=at r=First r=Baptist
+0.09142318567389256	0.9509803921568627	facility	false	in=alabama l=da l=gump l=today r=here r=I r=come
+0.09133709981167608	0.9509803921568627	facility	false	in=Nex-Tech l=Stop l=by l=teh r=and r=Nex-Tech r=Wireless
+0.09125117591721543	0.9509803921568627	facility	false	in=Baveh in=Nate l=, l=us l=and r=... r=meant r=to
+0.09116541353383459	0.9509803921568627	facility	false	in=PlayStation in=Network l=Demo l=Coming l=to r=on r=September r=...
+0.09107981220657277	0.9509803921568627	facility	false	in=Piranha in=3D l=in l=years l=... r=just r=exceeded r=the
+0.09099437148217636	0.9509803921568627	facility	false	in=iPad l=@borkware l=Somehow l=my r=in r=Airplane r=mode
+0.09090909090909091	0.9509803921568627	facility	false	in=Vegas l=first l=day l=in r=and r=I r=am
+0.09082397003745318	0.9509803921568627	facility	false	in=National in=POW/MIA in=Recognition in=Day l=recognizes l=today l=as r=. r=Visit r=http://www.dtic.mil/dpmo/pow_day/
+0.09073900841908325	0.9509803921568627	facility	false	in=the in=Lions l=Wolves l=to l=host r=for r=game r=time
+0.09065420560747664	0.9509803921568627	facility	false	in=ravens l=wait l=for l=the r=game r=tomorrow r=....
+0.09056956115779645	0.9509803921568627	facility	false	in=Marie in=Clair l=photo l=shoot l=with r=. r=@OHEMMGEEZY
+0.09048507462686567	0.9509803921568627	facility	false	in=Wingo l=this l=week l=. r=tellin r=me r=and
+0.09133271202236719	0.9607843137254902	facility	true	in=New in=Life l=morning l=gathering l=at r=can r=be r=watched
+0.09124767225325885	0.9607843137254902	facility	false	in=Twitter l=RT l=@duchess_rebecca l=: r=is r=going r=to
+0.09116279069767441	0.9607843137254902	facility	false	in=#Vh1 l=to l=be l=on r=so r=by r=the
+0.09107806691449814	0.9607843137254902	facility	false	in=UK l=actually l=anything l=on r=tv r=tonight r=!
+0.09099350046425256	0.9607843137254902	facility	false	in=The in=Room l=Watching r=for r=like r=the
+0.09090909090909091	0.9607843137254902	facility	false	in=BlackBerry l=upgrade l=to l=a r=in r=November r=!!
+0.09082483781278962	0.9607843137254902	facility	false	in=Alejandro l=during l=the l=' r=' r=Cover r=&quot;
+0.09074074074074075	0.9607843137254902	facility	false	in=Vegas l='s l=official l=!!! r=for r=the r=weekend
+0.09065679925994449	0.9607843137254902	facility	false	in=Hudson in=TMA l=hosted l=by l=the r=at r=Town r=Square
+0.09057301293900184	0.9607843137254902	facility	false	in=India l=so l=much l=on r=, r=looks r=like
+0.0904893813481071	0.9607843137254902	facility	false	in=The in=Replacement l=way l=home l=for r=.
+0.09040590405904059	0.9607843137254902	facility	false	in=Big in=Time in=Rush l=Our l=Someday l=- r=&lt; r=3 r=:)
+0.0912442396313364	0.9705882352941176	facility	true	in=the in=tall in=ship in=Silva l=We're l=on r=tonight r=. r=Still
+0.09116022099447514	0.9705882352941176	facility	false	in=Tenshi in=ni in=Fureta in=yo l=I've l=listened l=to r=so r=many r=times
+0.09107635694572216	0.9705882352941176	facility	false	in=meatloaf l=and l=just l=sang r=at r=karoke r=.
+0.09099264705882353	0.9705882352941176	facility	false	in=Brazil l=@TomCruise l=I'm l=from r=.... r=and r=I
+0.09090909090909091	0.9705882352941176	facility	false	in=the in=States l=What l=part l=of r=are r=you r=from
+0.0908256880733945	0.9705882352941176	facility	false	in=AIS in=U21 l=Jets l=Youth l=v r=@ r=18 r=Sep
+0.09074243813015583	0.9705882352941176	facility	false	in=chipotle l=to l=start l=buying r=for r=ONE r=lucky
+0.09065934065934066	0.9705882352941176	facility	false	in=SUPAHFEST l=facial l=, l=then r=tonight r=i r=need
+0.09057639524245197	0.9705882352941176	facility	false	in=NY l=Mariel l=Concepcion l=, r=| r=September r=1
+0.09049360146252285	0.9705882352941176	facility	false	in=Good in=Friday l=@kanyewest l=drop l=his r=song r=yet r=today
+0.09041095890410959	0.9705882352941176	facility	false	in=Green in=Day l=what l=the l=new r=album r=will r=called
+0.09032846715328467	0.9705882352941176	facility	false	in=Jack in=L in=. l=Lea l=Brilmayer l=, r=Goldsmith[May r=01 r=,
+0.0902461257976299	0.9705882352941176	facility	false	in=Simon in=Posford l=, l=Shpongle l=( r=DJ r=set r=)
+0.09016393442622951	0.9705882352941176	facility	false	in=BB l=spent l=time l=with r=.
+0.09008189262966333	0.9705882352941176	facility	false	in=Kerri in=russel l=my l=day l=Photoshopping r=into r=a r=mutant
+0.09	0.9705882352941176	facility	false	in=FHSU l=water l=and l=an r=foam r=finger r=.
+0.08991825613079019	0.9705882352941176	facility	false	in=Jonah l=, l=Shane l=&amp; r=. r=And r=this
+0.08983666061705989	0.9705882352941176	facility	false	in=Testing in=Tomorrow l=YouTube l=video l=-- r=http://youtu.be/aOYInsel7Qw?a
+0.08975521305530372	0.9705882352941176	facility	false	in=america l=luckiest l=guy l=in r=... r=soooo r=jealous
+0.08967391304347826	0.9705882352941176	facility	false	in=Rashad l=had l=talking l=to r=... r=:)
+0.08959276018099548	0.9705882352941176	facility	false	in=betos l=family l=reunion l=then r=gbye r=party r=so
+0.08951175406871609	0.9705882352941176	facility	false	in=Jimmie in=Johnson l=Happy l=B-Day r=FLYING r=LIZARD
+0.08943089430894309	0.9705882352941176	facility	false	in=puff in=puff in=pass l=grandma l=boys l=, r=, r=and r=4
+0.08935018050541517	0.9705882352941176	facility	false	in=Yom in=Kippur l=Before l=and l=After r=? r=We r=Asked
+0.08926961226330027	0.9705882352941176	facility	false	in=Beyonce l=Timberlake l=ft l=. r=- r=Until r=the
+0.0891891891891892	0.9705882352941176	facility	false	in=DOES in=IT in=OFFEND in=YOU in=, in=YEAH in=? l=2 l=KELE l=and r=Sept r=21st r=@
+0.0891089108910891	0.9705882352941176	facility	false	in=youtube l=dear r=why r=does r=it
+0.08902877697841727	0.9705882352941176	facility	false	in=Santy l=Hurry l=up l=! r=will r=be r=Leaving
+0.0889487870619946	0.9705882352941176	facility	false	in=nintendo l=life l=is l=no r=game r=but r=you
+0.08886894075403949	0.9705882352941176	facility	false	in=old in=navy l=I l=went l=to r=today r=and r=bought
+0.08878923766816144	0.9705882352941176	facility	false	in=Zac in=Brown in=Band l=You l=Give l=~ r=40 r=days r=in
+0.08870967741935484	0.9705882352941176	facility	false	in=Jenny l=I'd l=forgotten l=when r=was r=actually r=really
+0.08863025962399283	0.9705882352941176	facility	false	in=Danny l=- l=- l=&gt; r=. r=lol r=good
+0.0885509838998211	0.9705882352941176	facility	false	in=Charlie in=Chaplin l=time l=and l=killed r=.
+0.08847184986595175	0.9705882352941176	facility	false	in=delaware l=with l=family l=from r=, r=or r=leftover
+0.08839285714285715	0.9705882352941176	facility	false	in=Bennett- l=vs l=Blount l=with r=love r=spending r=time
+0.08831400535236396	0.9705882352941176	facility	false	in=Jill l=weird l=to l=think r=will r=have r=a
+0.08823529411764706	0.9705882352941176	facility	false	in=TMZ l=... l=sources l=tell r=.... r=http://bi r=...
+0.0881567230632235	0.9705882352941176	facility	false	in=japan l=y/o l=kid l=from r=who r=won r=the
+0.08807829181494661	0.9705882352941176	facility	false	in=Pumpkin in=Moonshine l=RT l=: l=@corsairartisan r=has r=arrived r=in
+0.088	0.9705882352941176	facility	false	in=Pumpkin in=Moonshine l=RT l=: l=@corsairartisan r=has r=arrived r=in
+0.08792184724689166	0.9705882352941176	facility	false	in=Erenice in=War l=arm l=Rousseff l=, r=, r=51 r=years
+0.0878438331854481	0.9705882352941176	facility	false	in=Penny l=3 l=year l=old r=of r=Mesa r=,
+0.08776595744680851	0.9705882352941176	facility	false	in=DT l=by l=a l=few r=fans r=because r=I
+0.08768821966341896	0.9705882352941176	facility	false	in=joe l=are l=welcome l=, r=included
+0.08761061946902655	0.9705882352941176	facility	false	in=joe l=are l=welcome l=, r=included
+0.08753315649867374	0.9705882352941176	facility	false	in='Rickey in=Smiley r=had r=me r=laughing
+0.08745583038869258	0.9705882352941176	facility	false	in=KELE l=Win l=tix l=2 r=and r=DOES r=IT
+0.08737864077669903	0.9705882352941176	facility	false	in=Blakehurst l=York l=tomorrow l=with r=. r=Contact r=us
+0.0873015873015873	0.9705882352941176	facility	false	in=N.E.R.D. l=Naples l=tomorrow l=with r=, r=Maroon r=5
+0.08722466960352424	0.9705882352941176	facility	false	in=Clark in=Duke l=total l=9 l=for r=RT r=@Naathan_B r=:
+0.08714788732394366	0.9705882352941176	facility	false	in=Barbara in=Boxer l=fellow l=desert l=dweller r=at r=event r=today
+0.0870712401055409	0.9705882352941176	facility	false	in=GaGa l=@ConorMc_Ginty r=played r=here r=a
+0.08699472759226713	0.9705882352941176	facility	false	in=GaGa l=@ConorMc_Ginty r=played r=here r=a
+0.08691834942932397	0.9705882352941176	facility	false	in=Seahawk l=ready l=for l=some r=football r=? r=Can't
+0.0868421052631579	0.9705882352941176	facility	false	in=Herbie l=. l=Ending l=with r=&amp; r=Freddie r=!
+0.08676599474145487	0.9705882352941176	facility	false	in=Davidson l=Wake l=, r=, r=Charlotte r=and
+0.08669001751313485	0.9705882352941176	facility	false	in=mcdonalds l=i l=want l=a r=at r=this r=time
+0.08661417322834646	0.9705882352941176	facility	false	in=the in=Fearless in=Tour l=I l=think l=of r=, r=I r=think
+0.08653846153846154	0.9705882352941176	facility	false	in=walmart l=address l=to l=the r=that r=@Treysongz r=is
+0.08646288209606987	0.9705882352941176	facility	false	in=twitter l=introduced l=@TheSmokingGunn l=to r=. r=May r=he
+0.08638743455497382	0.9705882352941176	facility	false	in=Brandy l=Hurry l=up l=! r=will r=be r=Leaving
+0.08631211857018309	0.9705882352941176	facility	false	in=Hangeland l=Pedersen l=: r=won't r=be r=at
+0.08623693379790941	0.9705882352941176	facility	false	in=God l=true l=nature l=of r=came r=in r=the
+0.08616187989556136	0.9705882352941176	facility	false	in=iPhone l=Must l=say r=is r=more r=accurate
+0.08608695652173913	0.9705882352941176	facility	false	in=carmen l=was l=george l=with r=today r=;D
+0.08601216333622937	0.9705882352941176	facility	false	in=Bradley in=Soccer l=Season l=opener l=for r=tonight r=!
+0.0859375	0.9705882352941176	facility	false	in=UNKLE l=with l=@blindoldfreak l=, r=&amp; r=@trent_reznor r=all
+0.08586296617519515	0.9705882352941176	facility	false	in=*Boston* l=to l=hear l=a r=accent r=again r=.
+0.08578856152512998	0.9705882352941176	facility	false	in=Pope l=headline l=tomorrow l=: r='s r=battle r=to
+0.08571428571428572	0.9705882352941176	facility	false	in=Rick in=Ross l=you l=ran l=into r=and r=Drake r=twice
+0.08564013840830449	0.9705882352941176	facility	false	in=Greenville l=Consultant(s l=) l=- r=, r=AL r=http://bit.ly/dflARA
+0.08556611927398444	0.9705882352941176	facility	false	in=Stan in=Bowman l=Blackhawks l=general l=manager r=said r=Cristobal r=Huet
+0.08549222797927461	0.9705882352941176	facility	false	in=running in=wit in=mjd l=#2 l=tonite l=" r=" r=will r=be
+0.08541846419327007	0.9705882352941176	facility	false	in=Whitney l=ate&amp;#39 l=; l=with r=tonight r=, r=:P
+0.0853448275862069	0.9705882352941176	facility	false	in=Brown l=next l=Pope l=" r=: r=" r=I
+0.08613264427217916	0.9803921568627451	facility	true	in=the in=BLAST l=Whos l=Goin l=to
+0.08605851979345955	0.9803921568627451	facility	false	in=Don in=Mattingly r=will r=replace r=Joe
+0.08598452278589853	0.9803921568627451	facility	false	in=Roger in=Waters l=chance l=to l=win r=tickets r=on r=KLH
+0.0859106529209622	0.9803921568627451	facility	false	in=Donald in=Trump l=a l=business l=.
+0.08583690987124463	0.9803921568627451	facility	false	in=android l=to l=get l=an r=device r=, r=but
+0.08576329331046312	0.9803921568627451	facility	false	in=DJ in=Elements l=Boyz l=LIVE l=w/ r=103.5 r=&amp; r=Soreal
+0.0856898029134533	0.9803921568627451	facility	false	in=Daily in=Mail l=RT l=@tabloidwatch l=: r='s r=not-at-all r=predictable
+0.08561643835616438	0.9803921568627451	facility	false	in=Oscar r='s r=new r=favorite
+0.0855431993156544	0.9803921568627451	facility	false	in=boilers l=tonight l=:) l=yeeah r=.. r=oh r=wait
+0.08547008547008547	0.9803921568627451	facility	false	in=Stanford l=@erutan r='s r=Robert r=Laughlin
+0.08539709649871904	0.9803921568627451	facility	false	in=Bonita l=! l=Lets l=help r=celebrate r=her r=Birthday
+0.08532423208191127	0.9803921568627451	facility	false	in=Liffey in=valley l=wanna l=go l=to r=tomorrow r=? r=:)
+0.08525149190110827	0.9803921568627451	facility	false	in=GA l=bad l=time l=for r=fans r=at r=the
+0.08517887563884156	0.9803921568627451	facility	false	in=Kick-Ass l=while l=tonight l=. r=is r=very r=tempting
+0.0851063829787234	0.9803921568627451	facility	false	in=AZ l=of l=Mesa l=, r=who r=had r=heart
+0.08503401360544217	0.9803921568627451	facility	false	in=Valentines in=Day l=dinner l=planned l=for r=. r=Me r=:
+0.08496176720475786	0.9803921568627451	facility	false	in=grandma in=boys l=how l=high l=, r=, r=puff r=puff
+0.08488964346349745	0.9803921568627451	facility	false	in=Elvis l=of l=you l=and r=on r=stage r=yesterday
+0.08481764206955046	0.9803921568627451	facility	false	in=50 in=tyson l=RT l=@medeadly l=: r=droppin r=a r=video
+0.0847457627118644	0.9803921568627451	facility	false	in=twitter l=Imma l=get l=on r=since r=u r=say
+0.0846740050804403	0.9803921568627451	facility	false	in=Leo l=@OGOchoCinco l=depends l=what r='s r=revamped r=D
+0.08544839255499154	0.9901960784313726	facility	true	in=Luna in=Lounge l=night l=Casitas l=presents r=, r=the r=perfect
+0.08537616229923922	0.9901960784313726	facility	false	in=Delmar l=! l=CWE l=and r=are r=around r=the
+0.08530405405405406	0.9901960784313726	facility	false	in=Salt in=Lake l=is l=back l=in r=.
+0.08523206751054853	0.9901960784313726	facility	false	in=Evergreen in=Subaru l=Adoption l=Event l=with r=is r=from r=10am
+0.0851602023608769	0.9901960784313726	facility	false	in=Brian l=@briancag l=&quot;' r=.' r=Isn't r=available
+0.08508845829823083	0.9901960784313726	facility	false	in=Powell l=#cricket l=Lancashire l=let r=go r=early r=:
+0.08501683501683502	0.9901960784313726	facility	false	in=Toy in=story in=3 r=tonight r=on r=the
+0.08494533221194281	0.9901960784313726	facility	false	in=Nadal l=photo l=caption l=contest- r=and r=Novak r=in
+0.08487394957983194	0.9901960784313726	facility	false	in=Unsung l=Donnie l=Hathaway l='s r=I r=just r=get
+0.08480268681780016	0.9901960784313726	facility	false	in=Freddie l=with l=Herbie l=&amp; r=!
+0.08473154362416108	0.9901960784313726	facility	false	in=Exodus in=Porter l=1st l=batch l=of r=went r=into r=the
+0.08466051969823973	0.9901960784313726	facility	false	in=Disney l=I l=think l=of r=movies r=&amp; r=that
+0.08458961474036851	0.9901960784313726	facility	false	in=MetroPCS r=has r=the r=worst
+0.08451882845188284	0.9901960784313726	facility	false	in=Tyler in=Lewis l=out l=2012 l=pg r=since r=contact r=pd
+0.08444816053511706	0.9901960784313726	facility	false	in=CityTV l=seeing l=u l=on r=!
+0.08437761069340016	0.9901960784313726	facility	false	in=Robert in=Laughlin l=@erutan l=Stanford l='s r=( r=Nobel r=Physics1998
+0.08430717863105175	0.9901960784313726	facility	false	in=xmas l='m l=excited l=for r=, r=haha r=.
+0.08423686405337781	0.9901960784313726	facility	false	in=charlene l=have l=a l=baby r=. r=: r=L
+0.08416666666666667	0.9901960784313726	facility	false	in=Robert l=saw l=pictures l=of r=.... r=spent r=2
+0.08409658617818484	0.9901960784313726	facility	false	in=Lindsay in=Lohan l=Drug l=Test l=: r=may r=be r=in
+0.08402662229617304	0.9901960784313726	facility	false	in=sharks l=Good l=start l=for r=tonight r=can r=only
+0.08395677472984206	0.9901960784313726	facility	false	in=sharks l=Good l=start l=for r=tonight r=can r=only
+0.08388704318936877	0.9901960784313726	facility	false	in=Eminem l=watching l=the l=VMAs r=is r=BeAsT r=and
+0.08381742738589211	0.9901960784313726	facility	false	in=Australia l=already l=tomorrow l=in r=so r=can r=you
+0.08374792703150911	0.9901960784313726	facility	false	in=JC l=Shopping l=day l=with r=- r=so r=excited
+0.08367854183927093	0.9901960784313726	facility	false	in=Sellotape l=a l=lot l=of r=today r=:) r=printing
+0.0836092715231788	0.9901960784313726	facility	false	in=Dave l=for l=you l=&amp; r=!! r=( r=Was
+0.08354011579818031	0.9901960784313726	facility	false	in=ellwood r='s r=sushi r=,
+0.0834710743801653	0.9901960784313726	facility	false	in=Lady in=Gaga l=going l=to l=see r=:)
+0.08340214698596202	0.9901960784313726	facility	false	in=Ash l=that l=last l=week r=. r=I r=think
+0.08333333333333333	0.9901960784313726	facility	false	in=Arizona l=they're l=coming l=to r=next r=year r=??
+0.0832646331409728	0.9901960784313726	facility	false	in=Miley l=when l=you l=and r=will r=upgrade r=Miley
+0.08319604612850082	0.9901960784313726	facility	false	in=Robert in=Downey in=Jr l=) l=Starring l=: r=., r=Mickey r=Rourke
+0.0831275720164609	0.9901960784313726	facility	false	in=Simon in=&amp; in=Schuster l=MUSIC l=NEWS l=- r=has r=announced r=a
+0.08305921052631579	0.9901960784313726	facility	false	in=eminem l=when l=im l=gone r=:)
+0.08299096138044372	0.9901960784313726	facility	false	in=Novak l=contest- l=Nadal l=and r=in r=the r=tub
+0.08292282430213464	0.9901960784313726	facility	false	in=orlando l=and l=back l=to r=, r=possibly r=swing
+0.08285479901558655	0.9901960784313726	facility	false	in=facebook l=did l=get l=a r=so r=who r=cares
+0.08278688524590164	0.9901960784313726	facility	false	in=mcfly l=.. l=i l=know r=told r=me r=they
+0.08271908271908272	0.9901960784313726	facility	false	in=Sex in=In in=The in=City l=Tonight l=! l=" r=" r=Pt r=.
+0.08265139116202946	0.9901960784313726	facility	false	in=Casey in=Stoner l=Marlboro l=Ducati l='s r=wasted r=no r=time
+0.08258381030253475	0.9901960784313726	facility	false	in=tucson l=going l=to r=tonight r=:/
+0.08251633986928104	0.9901960784313726	facility	false	in=NFL) l=call l=it l=the r=. r=First r=draft
+0.08244897959183674	0.9901960784313726	facility	false	in=Nina l=@divacoachdabney l=you l=made r='s r=day r=.
+0.08238172920065252	0.9901960784313726	facility	false	in=Wisconsin l=going l=home l=to r=for r=a r=few
+0.08231458842705787	0.9901960784313726	facility	false	in=Da in=Bears l=fans l=remember l=when r=demolished r=you r=guys
+0.08224755700325732	0.9901960784313726	facility	false	in=The in=Weekend in=Grind l=right l=way l=with r=from r=8-10pm r=tonight
+0.0821806346623271	0.9901960784313726	facility	false	in=Jessum r='s r=Question r=of
+0.08211382113821138	0.9901960784313726	facility	false	in=Carly l=Crazy l=Steve l=, r=was r=Megan r=and
+0.08204711616571893	0.9901960784313726	facility	false	in=R'lyeh, l=a l=visual l=for r=though r=. r=I
+0.08198051948051949	0.9901960784313726	facility	false	in=Les in=Miserables l=cry l=w/me l=like r=:' r=)
+0.08191403081914031	0.9901960784313726	facility	false	in=Dee l=!!!!!!!!!!!... l=Where l=is r=when r=I r=need
+0.08184764991896272	0.9901960784313726	facility	false	in=Doc in=Lewis l=I l=miss l=in r=' r=class r=today
+0.08178137651821862	0.9901960784313726	facility	false	in=1st in=Presbyterian l=c l=da l=pic r=all r=day r=lol
+0.08171521035598706	0.9901960784313726	facility	false	in=xmas l=I'm l=excited l=for r=, r=haha r=.
+0.08164915117219078	0.9901960784313726	facility	false	in=rose l=' l=who l='s r=?' r=lmao
+0.0815831987075929	0.9901960784313726	facility	false	in=Pope l=RT l=@Queen_UK l=: r=insists r=he r=left
+0.08151735270379339	0.9901960784313726	facility	false	in=Badass in=Babes in=Savin in=' in=The in=Day l=BLOG l=- l=' r=' r=-- r=CHIX
+0.0814516129032258	0.9901960784313726	facility	false	in=Sabrina l=up l=and l=watch r=!!! r=Thanks r=@louisha
+0.08138597904915391	0.9901960784313726	facility	false	in=Levin l=for l=sure l=meet r=, r=Hien r=&lt;
+0.08132045088566828	0.9901960784313726	facility	false	in=Rob l=got l=to l=help r=finish r=the r=decorating
+0.08125502815768303	0.9901960784313726	facility	false	in=john l=dark l=today l=.. r=says r=its r=cuz
+0.08118971061093247	0.9901960784313726	facility	false	in=Toronto l=year l=Contract)Location l=: r=, r=Ontario r=,
+0.08112449799196787	0.9901960784313726	facility	false	in=Megan l=, l=Carly l=was r=and r=Josh r=was
+0.08105939004815409	0.9901960784313726	facility	false	in=o.d.b. l=simon l=, l=and r=i r=may r=have
+0.0809943865276664	0.9901960784313726	facility	false	in=Buck in=mountain r=tomorrow r=. r=#adirondacks
+0.08092948717948718	0.9901960784313726	facility	false	in=mariaelena l=game l=tonight l=with r=, r=sarah r=,
+0.08086469175340272	0.9901960784313726	facility	false	in=Russian in=navy l=... l=Hello l=" r=" r=it r='s
+0.0808	0.9901960784313726	facility	false	in=Todo in=Cabio l=@sfgiantsfan55 l=omg r=has r=been r=my
+0.08073541167066348	0.9901960784313726	facility	false	in=Alex in=Amenabar l=by l=Spanish l=director r=who r=directed r="
+0.08067092651757188	0.9901960784313726	facility	false	in=twitter l=favorite l=days l=on r=ever r=. r=@radhallman
+0.08060654429369513	0.9901960784313726	facility	false	in=Obama l=of l=$4T l=when r=spent r=it r=all
+0.08054226475279107	0.9901960784313726	facility	false	in=paris in=hilton l=my l=days l=like r=doing r=blowjobs r=on
+0.0804780876494024	0.9901960784313726	facility	false	in=brittany l=sarah l=, l=and r=! r=Mood r=:
+0.0804140127388535	0.9901960784313726	facility	false	in=True in=Blood l=when l=season l=3 r=is r=back r=on
+0.08035003977724742	0.9901960784313726	facility	false	in=Arizona l=unbearable l=. l=Give r=a r=break r=.
+0.08028616852146264	0.9901960784313726	facility	false	in=the in=Rza l=hang l=out l=with r=for r=a r=day
+0.08022239872915012	0.9901960784313726	facility	false	in=Mike r=vick r=back r=in
+0.08015873015873017	0.9901960784313726	facility	false	in=dynamite l=ive l=heard l=" r=" r=on r=the
+0.08009516256938938	0.9901960784313726	facility	false	in=Maroon in=5 l=with l=N.E.R.D. l=, r=and r=others r=at
+0.08003169572107766	0.9901960784313726	facility	false	in=Alex l=gotta l=admit l=, r=sounds r=hot r=when
+0.07996832937450514	0.9901960784313726	facility	false	in=Long in=Beach l=Mai l=Tai l=in r=. r=I'm r=considering
+0.07990506329113924	0.9901960784313726	facility	false	in=Crazy in=Steve l=from l=iCarly l=was r=, r=Carly r=was
+0.07984189723320158	0.9901960784313726	facility	false	in=KC in=and in=The in=Sunshine in=Band l=Down l=Tonight l=with r=. r=#Dallas r=#concerts
+0.07977883096366509	0.9901960784313726	facility	false	in=TIFF l=When r=is r=in r=Tdot
+0.07971586424625099	0.9901960784313726	facility	false	in=Not in=a in=Genuine in=Black in=Man l=selection l=is l=" r=" r=by r=@BrianCopie
+0.07965299684542587	0.9901960784313726	facility	false	in=flipboard l=when l=I l=opened r=just r=now r=.
+0.07959022852639874	0.9901960784313726	facility	false	in=Yoav l=YouTube l=video l=-- r=" r=We r=All
+0.07952755905511812	0.9901960784313726	facility	false	in=Stephen r=, r=the r=Intellectual
+0.07946498819826908	0.9901960784313726	facility	false	in=Stephen in=Fry l=Sky l=3D l=enlists r=to r=explain r=the
+0.07940251572327044	0.9901960784313726	facility	false	in=Stephen in=Fry l=Sky l=3D l=enlists r=to r=explain r=the
+0.0793401413982718	0.9901960784313726	facility	false	in=VMB in=awards l=RT l=@NAT3OH3 l=: r=last r=night r=were
+0.07927786499215071	0.9901960784313726	facility	false	in=Jan in=Brewer r=: r=Beheadings r=?
+0.0792156862745098	0.9901960784313726	facility	false	in=4Dbling r='s r=place r=til
+0.07915360501567398	0.9901960784313726	facility	false	in=Dazed in=&amp; in=Confused l=excited l=4 l=' r=' r=on r=our
+0.07909162098668755	0.9901960784313726	facility	false	in=AstronomersWithoutBorders l=RT l=@askyfullofstars l=: r=has r=a r=list
+0.07902973395931143	0.9901960784313726	facility	false	in=Charice l=Glee l=premiere l=&amp; r='s r=will r=soar
+0.07896794370602032	0.9901960784313726	facility	false	in=Atlanta l=overseeding l=season l=for r=&amp; r=N r=.
+0.07890625	0.9901960784313726	facility	false	in=Kathy l=Peppers l=with r=... r=where r=we
+0.07884465261514442	0.9901960784313726	facility	false	in=Cooper l=funny l=about l=testicles r=as r=you r=will
+0.07878315132605304	0.9901960784313726	facility	false	in=Jones l=Pub l=! l=DUDE r=playing r=inside r=and
+0.07872174590802807	0.9901960784313726	facility	false	in=Dave in=Matthews l=Lebowski l=Fest l=, r=, r=Latin r=Music
+0.07866043613707165	0.9901960784313726	facility	false	in=twitter l=Why l=is r=dead r=? r=Oh
+0.07859922178988327	0.9901960784313726	facility	false	in=Richard in=Kadrey l=Sandman l=Slim l=by r=. r=Love r=#wkndreads
+0.07853810264385692	0.9901960784313726	facility	false	in=KISS l=a l=show l=with r=tomorrow r=. r=Can't
+0.07847707847707848	0.9901960784313726	facility	false	in=M&amp;M l=said l=, l=&quot; r='s r=melt r=in
+0.07841614906832298	0.9901960784313726	facility	false	in=Tim in=Bulmer l=@BenArch l=100- r=had r=a r=100%
+0.07835531419705198	0.9901960784313726	facility	false	in=Drake l=Rick l=Ross l=and r=twice r=in r=the
+0.07829457364341086	0.9901960784313726	facility	false	in=Austin l=Dementia l=Playing l=in r=Tonite r=at r=The
+0.07823392718822618	0.9901960784313726	facility	false	in=Oh in=Canada in=Team l=was l=featured l=on r='s r=blog r=:
+0.0781733746130031	0.9901960784313726	facility	false	in=Albin l=Coach l=Germano l=, r=, r=Haines r=and
+0.07811291569992267	0.9901960784313726	facility	false	in=Marlboro in=Ducati l=day l=one l=. r='s r=Casey r=Stoner
+0.07805255023183925	0.9901960784313726	facility	false	in=Jacob in=Lacey l=Jerraud l=Powers l=and r=don't r=remember r=much
+0.077992277992278	0.9901960784313726	facility	false	in=South in=107 l=to l=compete l=in r='s r=Battle r=of
+0.0779320987654321	0.9901960784313726	facility	false	in=Yanni l=the l=voices l=with r=in r=concert r=here
+0.07787201233616037	0.9901960784313726	facility	false	in=Wale l=a l=problem l=with r=now r=? r=why
+0.07781201848998459	0.9901960784313726	facility	false	in=Lake in=Charles l=slab l=show l=in r=..
+0.07775211701308699	0.9901960784313726	facility	false	in=inglewood l=the l=time l=in r=the r=other r=half
+0.07769230769230769	0.9901960784313726	facility	false	in=pope l=: l=When l=I'm r=the r=first r=thing
+0.07763259031514219	0.9901960784313726	facility	false	in=Cudi l=RT l=@RapperBigPooh l=so r=got r=a r=problem
+0.07757296466973887	0.9901960784313726	facility	false	in=Kwiruka l=RT l=@SavingGorillas l=: r=left r=her r=group
+0.07751343054489639	0.9901960784313726	facility	false	in=NBA l=i l=can l=haz r=now r=? r=League
+0.07745398773006135	0.9901960784313726	facility	false	in=fb l=long l=distance l=via r=and r=twitter r=.
+0.07739463601532567	0.9901960784313726	facility	false	in=Willow in=Smith r=is r=not r=9
+0.0773353751914242	0.9901960784313726	facility	false	in=Dan l=: r=is r=using r=his
+0.0772762050497322	0.9901960784313726	facility	false	in=Samuel in=Savoirfaire in=Williams l=do l=tonight l=? r=at r=Potbelly r=Lincoln
+0.077217125382263	0.9901960784313726	facility	false	in=#Padres l=strong l=with l=the r=tonight r=. r=We
+0.07715813598166539	0.9901960784313726	facility	false	in=Chris l='On l=set l=filming r=" r=Rainy r=Days
+0.07709923664122137	0.9901960784313726	facility	false	in=Seanzie l=get l=to l=see r=if r=he r=goes
+0.07704042715484363	0.9901960784313726	facility	false	in=Betsey in=Johnson l=of l=my l=favorite r=necklaces r=today r=!!
+0.07698170731707317	0.9901960784313726	facility	false	in=YOM in=KIPPUR l=years l=ago l=that r=would r=be r=trending
+0.07692307692307693	0.9901960784313726	facility	false	in=Joel l=bad l=thing l=, r=on r=Technology r=http://bit.ly/9KKobr
+0.07686453576864535	0.9901960784313726	facility	false	in=Adam l=a l=strong l=hunch r=will r=be r=a
+0.07756653992395438	1.0	facility	true	in=Casitas l=Every l=Saturday l=night r=presents r=Luna r=Lounge
+0.07750759878419453	1.0	facility	false	in=port in=city in=java l=@julie_cook l=: l=thanks r=for r=the r=caffeine
+0.0774487471526196	1.0	facility	false	in=tom l=i l=wonder l=wat r=. r=is r=......
+0.07738998482549317	1.0	facility	false	in=Charles l=own l=life l=, r=was r=never r=in
+0.07733131159969674	1.0	facility	false	in=Lord in=Jesus l=] l=May l=our r=be r=with r=u
+0.07727272727272727	1.0	facility	false	in=prince l=he l=likes r=, r=paul r=simon
+0.07721423164269493	1.0	facility	false	in=Brad in=paisley l=@karensuluay l=Hyna l=the r=concert r=we r=were
+0.07715582450832073	1.0	facility	false	in=Scooter in=Braun l=with l=your l=dad r=, r=your r=life
+0.07709750566893424	1.0	facility	false	in=Scooter in=Braun l=with l=your l=dad r=, r=your r=life
+0.0770392749244713	1.0	facility	false	in=Scooter in=Braun l=with l=your l=dad r=, r=your r=life
+0.07698113207547169	1.0	facility	false	in=Scooter in=Braun l=with l=your l=dad r=, r=your r=life
+0.07692307692307693	1.0	facility	false	in=Scooter in=Braun l=with l=your l=dad r=, r=your r=life
+0.07686510926902788	1.0	facility	false	in=Murkowski l=been l=wrong l=about r=, r=look r=like
+0.07680722891566265	1.0	facility	false	in=Tim in=Yip l=Olympics l=: l=By r=, r=Edmonton r=Journal
+0.07674943566591422	1.0	facility	false	in=Knight in=and in=Day l=favorite l=actor l=! r=is r=so r=cool
+0.07669172932330827	1.0	facility	false	in=Simpson l=is l=pregnant l=?? r=is r=pregnant r=with
+0.07663410969196092	1.0	facility	false	in=JA l=i'm l=excited l=for r=and r=wish r=him
+0.07657657657657657	1.0	facility	false	in=Mike l=amazing l=products l=from r='s r=Life r=.
+0.07651912978244561	1.0	facility	false	in=Three in=Days in=Grace l=video l=out l=-- r=- r=Break r=(
+0.07646176911544228	1.0	facility	false	in=ATL l=thought l=about l=it r=stood r=out r=in
+0.07640449438202247	1.0	facility	false	in=Jeff l=@Elcartoonifyer l=really l=? r=told r=me r=he
+0.07634730538922156	1.0	facility	false	in=Oscar in=de in=la in=Renta l=Ralph l=Lauren l=, r=, r=Gwen r=Stefani
+0.0762902019446522	1.0	facility	false	in=Josh l=was l=Megan l=and r=was r=fat r=.
+0.07623318385650224	1.0	facility	false	in=Dave l=! l=I l=hope r=gives r=him r=his
+0.07617625093353249	1.0	facility	false	in=vodka l=1 l=too l=many r='s r=last r=night
+0.07611940298507462	1.0	facility	false	in=Gelato in=Gilberto l=the l=world l=is r=? r=Tonight r=the
+0.07606263982102908	1.0	facility	false	in=phil in=collins l=gatt l=holly l=, r=, r=the r=skin
+0.07600596125186289	1.0	facility	false	in=Matt l=:O l=( l=Also r=will r=be r=saying
+0.0759493670886076	1.0	facility	false	in=Boris in=Kodjoe l=chance l=2 l=meet r=? r=He'll r=be
+0.07589285714285714	1.0	facility	false	in=Lari l=When r=and r=I r=went
+0.0758364312267658	1.0	facility	false	in=DADT l=his l=help l=with r=. r=Thanks r=for
+0.07578008915304606	1.0	facility	false	in=Danger in=Days in=: in=The in=True in=Lives in=Of in=The in=Fabulous in=Killjoys l=RT l=@Vivi_Venom l=" r=." r=22nd r=november'
+0.0757238307349666	1.0	facility	false	in=Fes l=with l=Houston l=, r=is r=back r=in
+0.07566765578635015	1.0	facility	false	in=simone l=omg r=is r=coming r=over
+0.07561156412157154	1.0	facility	false	in=R in=. in=Lea in=Brilmayer l=and l=Materials l=: r=, r=Jack r=L
+0.07555555555555556	1.0	facility	false	in=George in=N in=. in=Parks r=, r=UMass r=band
+0.07549962990377498	1.0	facility	false	in=ray in=rice l=tomorrow l=.... l=go r=!!!!!!!
+0.07544378698224852	1.0	facility	false	in=wipro l=a l=big l=day r='s r=interview r=checking
+0.07538802660753881	1.0	facility	false	in=KRISTEN in=BELL l=out l=yesterday l=that r=is r=the r=voice
+0.07533234859675036	1.0	facility	false	in=taylor l=her l=name l=is r=and r=i r=love
+0.07527675276752767	1.0	facility	false	in=Justin l='RT l=@JustinsHairFlip l=: r=was r=TOTALLY r=prancing
+0.0752212389380531	1.0	facility	false	in=Jorge l=that l=me l=and r=will r=be r=playing
+0.07516580692704496	1.0	facility	false	in=TWITTER l=I l=HAVE l=A r=FOR r=MA r=...'
+0.07511045655375552	1.0	facility	false	in=salsa in=caliente l=you l=are l=with r=and r=get r=in
+0.07505518763796909	1.0	facility	false	in=salsa in=caliente l=you l=are l=with r=and r=get r=in
+0.075	1.0	facility	false	in=Ed in=Miliband l=Leadership l=Market- l=http://bit.ly/cD3Rn8 r='s r=odds r=have
+0.07494489346069066	1.0	facility	false	in=Blackberry l=I l=update l=my r=....
+0.07488986784140969	1.0	facility	false	in=Portia l=Can l=you l=ask r=when r=she r='s
+0.0748349229640499	1.0	facility	false	in=Ben l=do l=n't l=worry r=, r=we r=already
+0.0747800586510264	1.0	facility	false	in=myspace l=I l=remember l=when r=was r=a r=big
+0.07472527472527472	1.0	facility	false	in=florence l=:) l=happy l=birthday r=&lt; r=3
+0.0746705710102489	1.0	facility	false	in=iPhone l=I l=get l=my r=that r='s r=when
+0.07461594732991954	1.0	facility	false	in=Jim in=Rohn l=it l=. l=- r=RT r=@TheSCICoach
+0.07456140350877193	1.0	facility	false	in=mike l=@Loserface_Laura l=when r=lets r=me r=know
+0.07450693937180423	1.0	facility	false	in=Charlene l=sisters l=pals l=. r=; r=it r='s
+0.07445255474452554	1.0	facility	false	in=Jesus in=Christ l=the l=person l=of
+0.07439824945295405	1.0	facility	false	in=Tim l=3 l=of l=chef r='s r=boozy r=ice
+0.07434402332361516	1.0	facility	false	in=Justin in=Timberlake r=ft r=. r=Beyonce
+0.07428987618353969	1.0	facility	false	in=#BattlestarGalactica l=only l=is l=it r='s r=32nd r=Anniversary
+0.07423580786026202	1.0	facility	false	in=green in=day l=listen l=to l=that r=song r=.
+0.07418181818181818	1.0	facility	false	in=sam l=shut l=up l=, r='s r=coming r=tomorrow
+0.07412790697674419	1.0	facility	false	in=Robert l=And l=so l=did r=.
+0.07407407407407407	1.0	facility	false	in=Ben l=And l=don't l=worry r=, r=we r=already
+0.07402031930333818	1.0	facility	false	in=Nick in=Jonas l=: l=I l=rape r=.
+0.07396664249456128	1.0	facility	false	in=Hien l=meet l=Levin l=, r=&lt; r=3 r=and
+0.07391304347826087	1.0	facility	false	in=Kyle l=I l=chatted l=with r=was r=June r=.
+0.07385952208544533	1.0	facility	false	in=Justin in=Bieber l=trampled l=at l=a r=concert r=, r=yoiu
+0.07380607814761216	1.0	facility	false	in=Justin in=Bieber l=trampled l=at l=a r=concert r=, r=yoiu
+0.0737527114967462	1.0	facility	false	in=Justin in=Bieber l=trampled l=at l=a r=concert r=, r=yoiu
+0.07369942196531792	1.0	facility	false	in=Justin in=Bieber l=trampled l=at l=a r=concert r=, r=yoiu
+0.0736462093862816	1.0	facility	false	in=Justin in=Bieber l=trampled l=at l=a r=concert r=, r=yoiu
+0.0735930735930736	1.0	facility	false	in=Justin in=Bieber l=trampled l=at l=a r=concert r=, r=yoiu
+0.07354001441961067	1.0	facility	false	in=Justin in=Bieber l=radio l=off l=this r=you r=smile r=I
+0.07348703170028818	1.0	facility	false	in=Sarah in=Jessica in=Parker l=via l=POPSUGAR l=) r=and r=Gwen r=Stefani
+0.0734341252699784	1.0	facility	false	in=BB l=left l=me l=and r=I r=would r=not
+0.07338129496402877	1.0	facility	false	in=america l=i'm l=moving l=to r=when r=i'm r=at
+0.07332854061826025	1.0	facility	false	in=Tessa l=Game l=tonight l=with r=. r=I r=get
+0.07327586206896551	1.0	facility	false	in=George in=Hitchcock r=, r=Kayak r=Magazine
+0.0732232591529074	1.0	facility	false	in=Donnie in=Hathaway l=time l=I l=watch r='s r=Unsung r=I
+0.07317073170731707	1.0	facility	false	in=John l=@planetjedward l=were l='s r=and r=Edward r=...
+0.07311827956989247	1.0	facility	false	in=Justin l=to l=get l=all r=features r=! r=me
+0.07306590257879657	1.0	facility	false	in=Justin in=Bieber l=just l=took l=" r=takes r=2 r=months
+0.07301360057265568	1.0	facility	false	in=Justin in=Bieber l=just l=took l=" r=takes r=2 r=months
+0.07296137339055794	1.0	facility	false	in=Justin in=Bieber l=just l=took l=" r=takes r=2 r=months
+0.07290922087205147	1.0	facility	false	in=Jessica in=Simpson r=is r=PREGNANT r=!?!:
+0.07285714285714286	1.0	facility	false	in=George in=N in=. in=Parks l=in l=Ohio l=: r=, r=for r=33
+0.0728051391862955	1.0	facility	false	in=steve l=coming l=tomorrow l=and r=and r=tanya r=will
+0.07275320970042796	1.0	facility	false	in=David r='s r=new r=season
+0.07270135424091233	1.0	facility	false	in=John in=Henry in=Newman l=: l=Why l=move r=toward r=sainthood r=?:
+0.07264957264957266	1.0	facility	false	in=Michael l=leave l=you l=, r=. r=All r=our
+0.07259786476868327	1.0	facility	false	in=DJ in=Chris in=L l=playing l=inside l=and r=in r=Loft
+0.07254623044096728	1.0	facility	false	in=Mike in=Vick l=for l=Sunday l=when r=get r=his r=shine
+0.07249466950959488	1.0	facility	false	in=rose l=said l=' l=blame r=' r=she r=said
+0.07244318181818182	1.0	facility	false	in=Jan in=Bloom l=as l=well l=: r=... r=her r=two
+0.0723917672107878	1.0	facility	false	in=john in=wertheim l=genius l=&quot; l=by r=, r=play r=at
+0.07234042553191489	1.0	facility	false	in=Steve in=King l=: l=Rep l=. r=on r=ObamaCare r=,
+0.07228915662650602	1.0	facility	false	in=kenny l=n l=justthen l=about r=signing r=his r=book
+0.07223796033994334	1.0	facility	false	in=Jesus in=Christ l=the l=love l=of r=will r=overtake r=it
+0.07218683651804671	1.0	facility	false	in=Michael in=Kraus l=Year-Over-Year l=: l=By r=on r=September r=17
+0.07213578500707214	1.0	facility	false	in=Ralph in=Lauren l=week l=ends l=with r=, r=Oscar r=de
+0.07208480565371024	1.0	facility	false	in=Enslaved in=: in=Odyssey in=to in=the in=West l=Xbox l=360 l=: r=Demo r=Coming r=to
+0.07203389830508475	1.0	facility	false	in=Justin in=Bieber l=HELP l=us l=meet r=on r=November r=6
+0.07198306280875089	1.0	facility	false	in=Michael in=Vick l=Report l=: r=Will r=Start r=for
+0.07193229901269393	1.0	facility	false	in=George in=Parks in=Hitchcock l=at l=96 l=: r=was r=born r=on
+0.07188160676532769	1.0	facility	false	in=Roy l=i l=just l=found r='s r=and r=Greg
+0.07183098591549296	1.0	facility	false	in=trey in=songz l=@iLL87WiLL l=: l=When r=was r=a r=kid
+0.07178043631245602	1.0	facility	false	in=Michael l=you l=tomorrow l=:) r=I r=love r=you
+0.07172995780590717	1.0	facility	false	in=John in=Chiles l=Texas l=wide l=receiver r=has r=been r=ruled
+0.07167955024595925	1.0	facility	false	in=David l=@davidcushman r=, r=I r=just
+0.07162921348314606	1.0	facility	false	in=John in=Chiles l=UT l=: r=out r=, r=Mike
+0.07157894736842105	1.0	facility	false	in=Justin l=people l=say l=when r=gets r=a r=gf
+0.07152875175315568	1.0	facility	false	in=John in=Acuff r=joined r=@daveramseys r=team
+0.07147862648913805	1.0	facility	false	in=Steve in=Dave l=tell l=' l=em r=Podcast
+0.07142857142857142	1.0	facility	false	in=Rex in=Ryan l=Jets l=coach r=pleased r=with r=the
+0.07137858642407278	1.0	facility	false	in=Mike in=Davis l=Chiles l=out l=, r=in r=: r=Texas
+0.07132867132867132	1.0	facility	false	in=Justin l=@JBieber_isHOT l=: l=When r=gets r=a r=girlfriend
+0.07127882599580712	1.0	facility	false	in=Justin l=@CantBeliebIt l=: l=When r=gets r=a r=girlfriend
+0.0712290502793296	1.0	facility	false	in=John in=Lennon l=tears l=." l=#quote r=#quotes
+0.07117934403349616	1.0	facility	false	in=Justin in=Bieber l=2night l=! l=an r=concert r=in r=Dec
+0.07112970711297072	1.0	facility	false	in=george l=Lol l=, l=was r=with r=carmen r=today
+0.0710801393728223	1.0	facility	false	in=paul in=simon l=likes l=prince l=, r=, r=and r=o.d.b.
+0.07103064066852367	1.0	facility	false	in=Joel in=Ward l=I l=call l=him r=if r=he r='s
+0.0709812108559499	1.0	facility	false	in=Michael l=to l=look l=after r=and r=his r=friend
+0.07093184979137691	1.0	facility	false	in=J in=John l=#livethedream l=@joycemeyer l=, r=, r=@kerriweems r=oct
+0.07088255733148019	1.0	facility	false	in=Justin in=Bieber l=: l=the l=day r=was r=born r=was
+0.07083333333333333	1.0	facility	false	in=club in=penguin l=was l=on r=with r=@twilightmarisa r=till
+0.07078417765440666	1.0	facility	false	in=Jessica in=Simpson l=is l=PREGNANT l=!?!: r=is r=pregnant r=??
+0.07073509015256588	1.0	facility	false	in=sarah l=with l=mariaelena l=, r=, r=and r=brittany
+0.07068607068607069	1.0	facility	false	in=nightmare in=before in=christmas r=!!!
+0.07063711911357341	1.0	facility	false	in=goodbye in=moon l=gives l=me l=" r=". r=Probably r=a
+0.07058823529411765	1.0	facility	false	in=christmas l=a l=baby l=after r=. r=Jemma r=;
+0.07053941908713693	1.0	facility	false	in=Rihanna l=He l=said r=all r=low r=toned
+0.07049067035245335	1.0	facility	false	in=justin in=bieber l=" l=You l=and r=love r=story r=(
+0.07044198895027624	1.0	facility	false	in=justin l=need l=to l=know r=isnt r=the r=innocent
+0.07039337474120083	1.0	facility	false	in=justin in=bieber l=one l=time l=von r=und
+0.0703448275862069	1.0	facility	false	in=justin in=bieber l=a l=picture l=of r=she r=said r=that

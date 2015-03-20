@@ -1,0 +1,26 @@
+Modeling missing data in distant supervision
+
+Note: this code needs some work to package up and make it easy to run.  I had several requests for the code, so uploaded it here in the current state in case it is useful.
+
+Some notes on running:
+
+requires Scalala.
+Download from github and build using "sbt publish-local" first
+
+I think it needs this file which was too large for github:
+https://www.dropbox.com/s/eclcoimpv4xt6nq/freebase-datadump-quadruples.tsv.bz2.filtered
+
+Need to increase the java memory limit, I think the easiest way to do this might be by directly editing the sbt script, e.g.:
+rittera@thrust:~/$ cat `which sbt`
+SBT_OPTS="-Xms512M -Xmx20G -Xss1M -XX:+CMSClassUnloadingEnabled -XX:MaxPermSize=256M"
+java $SBT_OPTS -jar `dirname $0`/sbt-launch.jar "$@"
+
+Related paper:
+@article{ritter2013modeling,
+  title={Modeling Missing Data in Distant Supervision for Information Extraction},
+  author={Ritter, Alan and Zettlemoyer, Luke and Mausam and Etzioni, Oren},
+  journal={Transactions of the Association for Computational Linguistics},
+  volume={1},
+  pages={367--378},
+  year={2013}
+}

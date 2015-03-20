@@ -1,0 +1,3 @@
+
+NOTE: requires Scalala.
+Download from github and build using "sbt publish-local" first

@@ -1,0 +1,14 @@
+1. train Phi parameters heuristically
+   -First pass - train only using MultiR
+   -In cases where the extractor is very confident, predict whether the relatio will be missing from the DB.
+   -In cases where we are very confident there is no mention of the relation, predict whether it is observed in the DB.
+   
+   Details: probably really need to tune phi on held out data (text mentions should pretty much agree with database on training data)
+   Details: should only use most confident extractions for tuning phi...
+
+2. Print out highest weighted features (theta) - might give some insight into any issues...
+
+3. Maybe need some parameter regularization...?
+   -Could help with the issue of over-predicting "NA"
+
+4. Q: which works better: local search or A* beam search?
