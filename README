@@ -1,7 +1,5 @@
 Modeling missing data in distant supervision
 
-Note: this code needs some work to package up and make it easy to run.  I had several requests for the code, so uploaded it here in the current state in case it is useful.
-
 Some notes on running:
 
 requires Scalala.
